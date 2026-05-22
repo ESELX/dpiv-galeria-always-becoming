@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: Always Becoming
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Pó Pó"
-hero_subtitle: "Carrinhos de Madeira"
+hero_title: Always Becoming
+hero_subtitle: Brinquedos com formas orgânicas
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
+course: DesignDeProdutoIV
 group_name: ""
 group_number: ""
 ---
@@ -21,11 +21,13 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 2024307 | Ana Rita Queta   |
+| 2024570 | Carolina Aniceto |
+| 2024266 | Mariia Novytska  |
+| 2024275 | Matilde Puga     |
+
 
 ---
 
