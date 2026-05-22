@@ -4,13 +4,10 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-<<<<<<< HEAD
 hero_title: Always Becoming
 hero_subtitle: Brinquedos com formas orgânicas
-=======
-hero_title: Pó Pó
-hero_subtitle: Carrinhos de Madeira
->>>>>>> d999225ed59e9c7c7c5aa9e97a054737a8c31866
+
+
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
