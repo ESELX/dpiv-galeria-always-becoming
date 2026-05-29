@@ -3,13 +3,11 @@ title: Always Becoming
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: ../attachments/hero.jpg
 hero_title: Always Becoming
 hero_subtitle: Brinquedos com formas orgânicas
-
-
 hero_height: 100vh
-hero_overlay: 0.3
+hero_overlay: -0.7
 hero_align: center
 published: true
 course: DesignDeProdutoIV
@@ -56,21 +54,21 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
+  <a class="gallery-card" href="produtos/mariia/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>morfy</h3>
     <p>Mariia Novytska</p>
   </a>
-    <a class="gallery-card" href="produtos/_modelo/">
+    <a class="gallery-card" href="produtos/wandy/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>wandy</h3>
     <p>Max Puga</p>
-  </a>  <a class="gallery-card" href="produtos/_modelo/">
+  </a>  <a class="gallery-card" href="produtos/carol/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Carolina</p>
   </a>
-    <a class="gallery-card" href="produtos/_modelo/">
+    <a class="gallery-card" href="produtos/rita/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Ana Rita</p>
