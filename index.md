@@ -55,21 +55,21 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/mariia/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/mariia/attachments/hero.jpg" alt="" />
     <h3>morfy</h3>
     <p>Mariia Novytska</p>
   </a>
     <a class="gallery-card" href="produtos/wandy/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/wandy/attachments/hero.jpg" alt="" />
     <h3>wandy</h3>
     <p>Max Puga</p>
   </a>  <a class="gallery-card" href="produtos/carol/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/carol/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Carolina</p>
   </a>
     <a class="gallery-card" href="produtos/rita/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/rita/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Ana Rita</p>
   </a>
