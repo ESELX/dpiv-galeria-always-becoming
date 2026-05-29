@@ -3,7 +3,7 @@ title: modelo1
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/hero.png
 hero_title: morfy
 hero_subtitle: nome do aluno · 2025-26
 hero_height: 80vh
