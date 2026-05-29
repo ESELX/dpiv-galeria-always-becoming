@@ -17,7 +17,7 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
+# Always Becoming
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -58,8 +58,22 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/_modelo/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>morfy</h3>
+    <p>Mariia Novytska</p>
+  </a>
+    <a class="gallery-card" href="produtos/_modelo/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>wandy</h3>
+    <p>Max Puga</p>
+  </a>  <a class="gallery-card" href="produtos/_modelo/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <p>Carolina</p>
+  </a>
+    <a class="gallery-card" href="produtos/_modelo/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Ana Rita</p>
   </a>
 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
