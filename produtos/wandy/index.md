@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: wandy
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: wandy
+hero_subtitle: Matilde Puga · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# wandy
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
