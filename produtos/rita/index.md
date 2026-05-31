@@ -29,7 +29,7 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+O flowery é um brinquedo composto por cerca de 6 peças de madeira, as mesmas sendo encaixadas com o estilo de encaixe slot. É destinado a crianças dentro da faixa etária dos 4-5 anos e é um brinquedo não só didático como criativo, permitindo várias tipo de combinações.
 
 ![](attachments/placeholder.png)
 
@@ -39,15 +39,14 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Madeira de carvalho, corte efetuado com a CNC e o software paramétrico a ser utilizado é o Autodesk Fusion.
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
-
+Este brinquedo destina-se á faixa etária dos 4 a 5 anos, a sua montagem é simples, baseando-se no encaixe de cada peça consoante os buracos/espaços para fazê-lo. 
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
