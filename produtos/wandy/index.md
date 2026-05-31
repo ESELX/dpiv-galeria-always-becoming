@@ -22,7 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Um conjunto de formas abertas que se adapta tanto ao material disponível como à imaginação de quem brinca.
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
@@ -35,7 +35,9 @@ Ideia central do produto. O que é, para quem, porquê.
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O brinquedo desenvolvido enquadra-se na temática do projeto através da exploração de formas orgânicas e da construção livre de ambientes e cenários imaginários. Em vez de representar objetos ou elementos específicos, as peças funcionam como formas abertas à interpretação, permitindo que cada criança atribua os seus próprios significados e construa diferentes narrativas durante a brincadeira.
+
+A composição inicial das peças dentro da caixa constitui apenas um ponto de partida. Através da reorganização dos elementos, surgem novas relações, estruturas e paisagens, reforçando a ideia de que não existe uma única forma correta de brincar. Desta forma, o projeto procura materializar os princípios definidos pelo grupo, valorizando a experimentação, a descoberta e a liberdade criativa.
 
 ## Tecnologia
 
