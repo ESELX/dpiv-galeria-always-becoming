@@ -3,7 +3,7 @@ title: Always Becoming
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
+hero_image: attachments/hero.jpg
 hero_title: Always Becoming
 hero_subtitle: Brinquedos com formas orgânicas
 hero_height: 100vh
@@ -55,7 +55,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/mariia/">
-    <img src="produtos/mariia/attachments/hero.jpg" alt="" />
+    <img src="produtos/mariia/attachments/hero.png" alt="" />
     <h3>morfy</h3>
     <p>Mariia Novytska</p>
   </a>
@@ -64,12 +64,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <h3>wandy</h3>
     <p>Max Puga</p>
   </a>  <a class="gallery-card" href="produtos/carol/">
-    <img src="produtos/carol/attachments/hero.jpg" alt="" />
+    <img src="produtos/carol/attachments/hero.png" alt="" />
     <h3>Nome do Produto</h3>
     <p>Carolina</p>
   </a>
     <a class="gallery-card" href="produtos/rita/">
-    <img src="produtos/rita/attachments/hero.jpg" alt="" />
+    <img src="produtos/rita/attachments/hero.png" alt="" />
     <h3>Nome do Produto</h3>
     <p>Ana Rita</p>
   </a>
