@@ -54,23 +54,23 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/mariia/">
-    <img src="produtos/mariia/attachments/hero.png" alt="" />
+  <a class="gallery-card" href="produtos/2024266-mariia/">
+    <img src="produtos/2024266-mariia/attachments/hero.png" alt="" />
     <h3>morfy</h3>
     <p>Mariia Novytska</p>
   </a>
-    <a class="gallery-card" href="produtos/wandy/">
-    <img src="produtos/wandy/attachments/hero.jpg" alt="" />
+    <a class="gallery-card" href="produtos/2024275-max/">
+    <img src="produtos/2024275-max/attachments/hero.png" alt="" />
     <h3>wandy</h3>
     <p>Max Puga</p>
-  </a>  <a class="gallery-card" href="produtos/carol/">
-    <img src="produtos/carol/attachments/hero.png" alt="" />
-    <h3>Nome do Produto</h3>
+  </a>  <a class="gallery-card" href="produtos/2024570-carol/">
+    <img src="produtos/2024570-carol/attachments/hero.jpg" alt="" />
+    <h3>looky</h3>
     <p>Carolina</p>
   </a>
-    <a class="gallery-card" href="produtos/rita/">
-    <img src="produtos/rita/attachments/hero.png" alt="" />
-    <h3>Nome do Produto</h3>
+    <a class="gallery-card" href="produtos/2024307-rita/">
+    <img src="produtos/2024307-rita/attachments/hero.png" alt="" />
+    <h3>flowery</h3>
     <p>Ana Rita</p>
   </a>
 
