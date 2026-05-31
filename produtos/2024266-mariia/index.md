@@ -3,7 +3,7 @@ title: Nome do Produto
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/morfy_hero.png
+hero_image: attachments/hero.jpg
 hero_title: morfy
 hero_subtitle: Mariia Novytska · 2025-26
 hero_height: 80vh
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Morfy
+# morfy
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -45,13 +45,15 @@ Um brinquedo modular impulsionado por um sistema inovador de "fendas" e "moedas"
 **Porquê** 
 Porque quebrar a simetria é o primeiro passo para a verdadeira criatividade. Ao interagir com encaixes que fluem de forma orgânica, a criança é incentivada a abandonar os padrões, explorando novas perspetivas espaciais e transformando a montagem livre numa narrativa única.
 
-![](attachments/morfy.png)
+![](attachments/morfy1.png)
 
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
 
 ## Tecnologia
+
+Material: oak, cnc, fusion
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 

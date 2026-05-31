@@ -55,7 +55,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/2024266-mariia/">
-    <img src="produtos/2024266-mariia/attachments/hero.png" alt="" />
+    <img src="produtos/2024266-mariia/attachments/hero.jpg" alt="" />
     <h3>morfy</h3>
     <p>Mariia Novytska</p>
   </a>
