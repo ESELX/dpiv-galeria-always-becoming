@@ -29,9 +29,9 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-O flowery é um brinquedo composto por cerca de 6 peças de madeira, as mesmas sendo encaixadas com o estilo de encaixe slot. É destinado a crianças dentro da faixa etária dos 4-5 anos e é um brinquedo não só didático como criativo, permitindo várias tipo de combinações.
+O FLOWERY é um brinquedo composto por 9 peças de madeira. É destinado a crianças dentro da faixa etária entre os 4-5 anos e é um brinquedo didático e criativo, permitindo várias tipo de combinações. Render otimizado com o auxílio do Gemini AI.
 
-![](attachments/placeholder.png)
+![](attachments/brinquedos.png)
 
 ## Enquadramento
 
@@ -51,8 +51,8 @@ Este brinquedo destina-se á faixa etária dos 4 a 5 anos, a sua montagem é sim
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/kids.png)
+![](attachments/girl.png)
 
 ---
 
