@@ -42,14 +42,14 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 Madeira de carvalho, corte efetuado com a CNC e o software paramétrico a ser utilizado é o Autodesk Fusion.
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+- Ficheiros: `attachments/brinquedos.png`
 
 ## Função
 
 Este brinquedo destina-se á faixa etária dos 4 a 5 anos, a sua montagem é simples, baseando-se no encaixe de cada peça consoante os buracos/espaços para fazê-lo. 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+Imagens geradas com o auxílio com a Gemini IA.
 
 ![](attachments/kids.png)
 ![](attachments/girl.png)
