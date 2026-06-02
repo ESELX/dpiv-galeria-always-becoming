@@ -39,13 +39,16 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Madeira de carvalho, corte efetuado com a CNC e o software paramétrico a ser utilizado é o Autodesk Fusion.
+**Materiais:** madeira de carvalho; uso de placa de madeira reutilizada do FabLab Benfica. 
+**Tecnologia**: corte efetuado com a fresadora CNC.
+**Software paramétrico:** Autodesk Fusion.
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/brinquedos.png`
 
 ## Função
 
+**Como se brinca?**
 Este brinquedo destina-se á faixa etária dos 4 a 5 anos, a sua montagem é simples, baseando-se no encaixe de cada peça consoante os buracos/espaços para fazê-lo. 
 ## Apresentação
 
