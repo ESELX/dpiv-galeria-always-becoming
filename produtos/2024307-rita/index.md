@@ -29,7 +29,15 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-O FLOWERY é um brinquedo composto por 9 peças de madeira. É destinado a crianças dentro da faixa etária entre os 4-5 anos e é um brinquedo didático e criativo, permitindo várias tipo de combinações. Render otimizado com o auxílio do Gemini AI.
+**PT**
+
+O FLOWERY é um brinquedo composto por 9 peças de madeira. É destinado a crianças dentro da faixa etária entre os 4-5 anos e é um brinquedo didático e criativo, permitindo várias tipo de combinações. *Render otimizado com o auxílio do Gemini AI.*
+
+**EN**
+
+FLOWERY is a toy with 9 wooden pieces. It's targeted towards children ages 4-5, it has both didatic and creative elements, allowing any child to try out different combinations. *Render otimized with the aid of Gemini AI.*
+
+
 
 ![](attachments/brinquedos.png)
 
