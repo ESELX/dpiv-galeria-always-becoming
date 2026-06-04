@@ -13,7 +13,6 @@ published: true
 student_name: ""
 student_number: ""
 ---
-
 # MORFY
 
 <!--
@@ -31,8 +30,11 @@ Construir fora da caixa. Um sistema onde a montagem abandona a simetria tradicio
 
 ##### O que é
 
-Um brinquedo modular impulsionado por um sistema de fendas (*slots*) e moedas (*coins*) de conexão. Longe dos encaixes convencionais, as fendas fluem em harmonia com as curvas naturais de cada peça. Esta assimetria permite criar ângulos inusitados e composições que parecem ter vida própria.
+Um brinquedo modular assente num sistema aberto de conexões: fendas retas (_slots_) horizontais ou verticais unidas por moedas (_coins_), furos redondos para encaixe de chaves, e a possibilidade de união direta entre as peças. Longe dos encaixes convencionais e simétricos, o contraste entre a ortogonalidade das fendas e a fluidez das curvas naturais de cada peça permite criar ângulos inusitados e composições que ganham vida própria.
 
+<!--
+imagem 3 tipos de conexao
+-->
 ##### Para quem
 
 - **Crianças:** Exploradores que desafiam a lógica e procuram total liberdade para inventar sem o limite das grelhas simétricas.
@@ -40,10 +42,10 @@ Um brinquedo modular impulsionado por um sistema de fendas (*slots*) e moedas (*
 
 ##### Porquê 
 
-Porque quebrar a simetria é o primeiro passo para a verdadeira criatividade. Ao interagir com encaixes que fluem de forma orgânica, a criança é incentivada a abandonar os padrões, explorando novas perspetivas espaciais e transformando a montagem livre numa narrativa única.
+Porque quebrar a simetria tradicional é o primeiro passo para a verdadeira criatividade. Ao interagir com regras de encaixe simples que contrastam com formas orgânicas, a criança é incentivada a abandonar padrões rígidos, explorando novas perspetivas espaciais e transformando a montagem livre numa narrativa única e autoral.
 
-![](attachments/morfy1.png)
-
+![](attachments/variations.jpg)
+>**Renderização (Fusion 360):** Exemplos de montagem e exploração do *MORFY*
 ## Enquadramento
 
 ##### Posicionamento em relação ao [contexto](../../contexto.md) de grupo
@@ -65,15 +67,22 @@ Lixagem manual rigorosa de todas as peças para o arredondamento de arestas viva
 ##### Software Paramétrico
 Todo o projeto foi idealizado e modelado digitalmente no software paramétrico Autodesk Fusion 360.
 ##### Ficheiros Técnicos e Modelo 3D
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+- Modelo 3D: 
+https://a360.co/3S1agf1
 
-
-
-
+- Ficheiros: 
+Modelo 3D Principal - Autodesk Fusion 360
+`attachments/MORFY.f3d`
+Modelos de Teste
+`attachments/MORFY Test1.f3d`
+`attachments/MORFY Test2.f3d`
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+##### Como se brinca
+A brincadeira com o *MORFY* assenta na exploração tátil livre e sem regras predefinidas (_open-ended play_). Sem a imposição de instruções ou de uma simetria rígida, a criança assume o papel de autora, sendo convidada a descobrir e a testar as suas próprias regras de construção.
+
+![](attachments/cenario_de_uso.png)
+>*Imagem gerada por Inteligência Artificial (Gemini)*
 ##### Idade-alvo
 
 O faixa etária-alvo são crianças entre os 4 e os 5 anos de idade. Nesta faixa etária, a criança encontra-se no auge do jogo simbólico e do desenvolvimento do pensamento abstrato. O MORFY adequa-se perfeitamente a esta etapa, pois os miúdos já possuem a coordenação motora fina necessária para alinhar e pressionar as moedas nas fendas ortogonais, ao mesmo tempo que beneficiam de um brinquedo sem regras rígidas que estimula a criatividade e a narrativa visual (a criação dos seus próprios "personagens").
