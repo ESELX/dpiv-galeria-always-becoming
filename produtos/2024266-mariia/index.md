@@ -15,17 +15,12 @@ student_number: ""
 ---
 # MORFY
 
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
-![](attachments/variations.jpg)
->**Renderização (Fusion 360):** Exemplos de montagem e exploração do *MORFY*
-
-> A liberdade de construir os teus próprios personagens.
+> ***A liberdade de construir os teus próprios personagens.***
 ## Conceito
 
+
+![](attachments/variations.jpg)
+>**Renderização (Fusion 360):** Exemplos de montagem e exploração do *MORFY*
 ##### Ideia central
 Construir fora da caixa. Um sistema onde a montagem abandona a simetria tradicional, guiando a criança através de linhas orgânicas para criar formas e personagens absolutamente inesperadas.
 
