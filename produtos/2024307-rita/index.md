@@ -1,11 +1,11 @@
 ---
-title: modelo1
+title: FLOWERY
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.png
-hero_title: flowery
-hero_subtitle: nome do aluno · 2025-26
+hero_title: FLOWERY
+hero_subtitle: Ana Rita Queta · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# flowery
+# FLOWERY
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto

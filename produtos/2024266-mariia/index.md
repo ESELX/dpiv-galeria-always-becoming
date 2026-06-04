@@ -1,10 +1,10 @@
 ---
-title: Nome do Produto
+title: MORFY
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: morfy
+hero_title: MORFY
 hero_subtitle: Mariia Novytska · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# morfy
+# MORFY
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -23,34 +23,34 @@ student_number: ""
 -->
 
 > A liberdade de construir os teus próprios personagens.
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
-*Ideia central do produto. O que é, para quem, porquê.*
+##### Ideia central
 
-**Ideia central**
 Construir fora da caixa. Um sistema onde a montagem abandona a simetria tradicional, guiando a criança através de linhas orgânicas para criar formas e personagens absolutamente inesperadas.
 
-**O que é**
-Um brinquedo modular impulsionado por um sistema inovador de "fendas" e "moedas" de conexão. Longe dos encaixes convencionais, as fendas fluem em harmonia com as curvas naturais de cada peça. Esta assimetria permite criar ângulos inusitados e composições que parecem ter vida própria.
+##### O que é
 
-**Para quem**
+Um brinquedo modular impulsionado por um sistema de fendas (*slots*) e moedas (*coins*) de conexão. Longe dos encaixes convencionais, as fendas fluem em harmonia com as curvas naturais de cada peça. Esta assimetria permite criar ângulos inusitados e composições que parecem ter vida própria.
 
-**Crianças:** Exploradores que desafiam a lógica e procuram total liberdade para inventar sem o limite das grelhas simétricas.
-**Pais e Educadores:** Adultos que valorizam o pensamento divergente, a exploração tátil e um design de excelência que foge do óbvio.
+##### Para quem
 
-**Porquê** 
+- **Crianças:** Exploradores que desafiam a lógica e procuram total liberdade para inventar sem o limite das grelhas simétricas.
+- **Pais e Educadores:** Adultos que valorizam o pensamento divergente, a exploração tátil e um design de excelência que foge do óbvio.
+
+##### Porquê 
+
 Porque quebrar a simetria é o primeiro passo para a verdadeira criatividade. Ao interagir com encaixes que fluem de forma orgânica, a criança é incentivada a abandonar os padrões, explorando novas perspetivas espaciais e transformando a montagem livre numa narrativa única.
 
 ![](attachments/morfy1.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+##### Posicionamento em relação ao [contexto](../../contexto.md) de grupo
 
+O *MORFY* concretiza o conceito do grupo ao proporcionar um enquadramento temático centrado nas «personagens», funcionando como o contexto ou «moldura» que define o ponto de partida da peça. Em consonância com a filosofia do coletivo, este enquadramento inicial não impõe um fim, mas serve como o impulso necessário para explorar infinitas possibilidades em aberto.
+
+Dentro deste universo, *MORFY* introduz as suas próprias regras e limitações geométricas: um sistema modular baseado em ranhuras retas (horizontais ou verticais) e ligações por encaixe. É precisamente o contraste entre a rigidez destas ranhuras ortogonais e a fluidez das formas orgânicas das peças que cria assimetria e ângulos invulgares. Ao quebrar a simetria tradicional através de regras geométricas simples, o projeto posiciona-se no contexto do grupo como um facilitador do pensamento divergente, onde uma pequena limitação estrutural se torna o gatilho para que as crianças construam fora dos padrões estabelecidos.
 ## Tecnologia
 
 Material: oak, cnc, fusion
@@ -63,6 +63,15 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 ## Função
 
 Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+##### Idade-alvo
+
+O faixa etária-alvo são crianças entre os 4 e os 5 anos de idade. Nesta faixa etária, a criança encontra-se no auge do jogo simbólico e do desenvolvimento do pensamento abstrato. O MORFY adequa-se perfeitamente a esta etapa, pois os miúdos já possuem a coordenação motora fina necessária para alinhar e pressionar as moedas nas fendas ortogonais, ao mesmo tempo que beneficiam de um brinquedo sem regras rígidas que estimula a criatividade e a narrativa visual (a criação dos seus próprios "personagens").
+##### Montagem
+
+A montagem é manual, aberta à exploração e sem ferramentas, baseando-se em três dinâmicas de encaixe: a ligação através do sistema de fendas e moedas (slots & coins), a união mecânica direta entre as próprias peças ou o encaixe de elementos finos (estilo "chaves") em furos redondos integrados no design. Sem instruções ou fixações permanentes, a criança é livre para experimentar e explorar todas as possibilidades de ligação, sendo incentivada a descobrir formas originais de fixar, conectar e estruturar as peças entre si.
+##### Conformidade com a Diretiva 2009/48/CE
+
+O *MORFY* cumpre os requisitos essenciais da Diretiva 2009/48/CE. Ao nível das Propriedades Físicas e Mecânicas (EN 71-1), o risco de asfixia é nulo, pois as moedas medem 60 x 60 mm, superando o limite de 31,7 mm do cilindro de teste de pequenas partes; as arestas em madeira CNC são também arredondadas para evitar superfícies cortantes ou farpas. Quanto às Propriedades Químicas (EN 71-3), o projeto prevê materiais seguros e acabamentos ecológicos não tóxicos (tintas e vernizes à base de água), garantindo a total segurança no contacto tátil prolongado.
 
 ## Apresentação
 

@@ -50,27 +50,28 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
      e tem uma sub-página produtos/<numero>-<nome>/processo.md -->
 
 <!-- markdownlint-disable MD033 -->
+
 <div class="gallery-grid">
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/2024266-mariia/">
     <img src="produtos/2024266-mariia/attachments/hero.jpg" alt="" />
-    <h3>morfy</h3>
+    <h3>MORFY</h3>
     <p>Mariia Novytska</p>
   </a>
     <a class="gallery-card" href="produtos/2024275-max/">
     <img src="produtos/2024275-max/attachments/hero.png" alt="" />
-    <h3>wandy</h3>
+    <h3>WANDY</h3>
     <p>Max Puga</p>
   </a>  <a class="gallery-card" href="produtos/2024570-carol/">
     <img src="produtos/2024570-carol/attachments/hero.jpg" alt="" />
-    <h3>looky</h3>
+    <h3>LOOKY</h3>
     <p>Carolina</p>
   </a>
     <a class="gallery-card" href="produtos/2024307-rita/">
     <img src="produtos/2024307-rita/attachments/hero.png" alt="" />
-    <h3>flowery</h3>
+    <h3>FLOWERY</h3>
     <p>Ana Rita</p>
   </a>
 

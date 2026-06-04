@@ -1,10 +1,10 @@
 ---
-title: wandy
+title: WANDY
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: wandy
+hero_title: WANDY
 hero_subtitle: Matilde Puga · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# wandy
+# WANDY
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
