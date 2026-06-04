@@ -11,7 +11,6 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 ---
-
 # Processo
 
 > Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
@@ -54,8 +53,12 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
 
+![](attachments/prancha2.jpeg)
+*Prancha-Resumo atualizada*
+
+![](attachments/prancha1.jpeg)
+*Prancha-Resumo inicial*
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
