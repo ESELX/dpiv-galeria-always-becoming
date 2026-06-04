@@ -50,7 +50,7 @@ Porque quebrar a simetria tradicional é o primeiro passo para a verdadeira cria
 
 ##### Posicionamento em relação ao [contexto](../../contexto.md) de grupo
 
-O *MORFY* concretiza o conceito do grupo ao proporcionar um enquadramento temático centrado nas «personagens», funcionando como o contexto ou «moldura» que define o ponto de partida da peça. Em consonância com a filosofia do coletivo, este enquadramento inicial não impõe um fim, mas serve como o impulso necessário para explorar infinitas possibilidades em aberto.
+O *MORFY* concretiza o conceito do grupo ao proporcionar um enquadramento temático centrado nas personagens, funcionando como o contexto ou "moldura" que define o ponto de partida da peça. Em consonância com a filosofia do coletivo, este enquadramento inicial não impõe um fim, mas serve como o impulso necessário para explorar infinitas possibilidades em aberto.
 
 Dentro deste universo, *MORFY* introduz as suas próprias regras e limitações geométricas: um sistema modular baseado em ranhuras retas (horizontais ou verticais) e ligações por encaixe. É precisamente o contraste entre a rigidez destas ranhuras ortogonais e a fluidez das formas orgânicas das peças que cria assimetria e ângulos invulgares. Ao quebrar a simetria tradicional através de regras geométricas simples, o projeto posiciona-se no contexto do grupo como um facilitador do pensamento divergente, onde uma pequena limitação estrutural se torna o gatilho para que as crianças construam fora dos padrões estabelecidos.
 ## Tecnologia

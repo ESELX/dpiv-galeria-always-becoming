@@ -33,13 +33,18 @@ Each piece is an invitation to composition and storytelling, allowing little one
 Catálogo de objetos de partida que o grupo identificou para o redesenho.
 
 ![Objeto 1](attachments/keep_on_playing.jpg)
+
 - **Objeto 1** — O estúdio "milimbo" / Workshops in Valencia and prototypes for Fundació Joan Miró (2019) / Os brinquedos são modulares, transformáveis e refletem na perfeição o seu objetivo de proporcionar uma brincadeira sem limites.
 
-![Objeto 1|427](attachments/placeholder.png)
-- **Objeto 2** — ...
+![](attachments/Clare_Birtwistle.jpg)
 
+- **Objeto 2** — Arte Abstrata / Artista e designer freelancer britânica **Clare Birtwistle** / Uso de formas geométricas limpas, paletas de cores contrastantes e uma forte abordagem minimalista e redutiva
+
+![](attachments/Amelie_Dauteur.jpg)
+
+- **Objeto 3** — Escultura / Amélie Dauteur, artista visual e ceramista francesa / Peças com forte presença gráfica
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
-![Moodboard](attachments/moodboard.png)
+![Moodboard](attachments/moodboard.jpg)
