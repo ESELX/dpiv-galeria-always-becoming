@@ -14,20 +14,11 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
-
-## 2. Outros Modelos
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
+https://a360.co/3S1agf1
 ## 3. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
@@ -57,6 +48,7 @@ exploração de variantes.
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ![](attachments/keep_on_playing.jpg)
+- **Objeto 1** — O estúdio "milimbo" / Workshops in Valencia and prototypes for Fundació Joan Miró (2019) / Os brinquedos são modulares, transformáveis e refletem na perfeição o seu objetivo de proporcionar uma brincadeira sem limites.
 
 ## 7. Outros Elementos
 

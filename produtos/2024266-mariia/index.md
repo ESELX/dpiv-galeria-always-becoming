@@ -53,12 +53,23 @@ O *MORFY* concretiza o conceito do grupo ao proporcionar um enquadramento temát
 Dentro deste universo, *MORFY* introduz as suas próprias regras e limitações geométricas: um sistema modular baseado em ranhuras retas (horizontais ou verticais) e ligações por encaixe. É precisamente o contraste entre a rigidez destas ranhuras ortogonais e a fluidez das formas orgânicas das peças que cria assimetria e ângulos invulgares. Ao quebrar a simetria tradicional através de regras geométricas simples, o projeto posiciona-se no contexto do grupo como um facilitador do pensamento divergente, onde uma pequena limitação estrutural se torna o gatilho para que as crianças construam fora dos padrões estabelecidos.
 ## Tecnologia
 
-Material: oak, cnc, fusion
+##### Materiais
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
-
+O material principal selecionado para o projeto é a **madeira de carvalho**. Esta espécie de madeira de folha caduca foi escolhida pela sua elevada densidade, resistência mecânica e durabilidade, qualidades fundamentais para resistir ao desgaste contínuo de um brinquedo modular de encaixe. Visualmente, o carvalho confere um acabamento texturado e orgânico através dos seus veios característicos, valorizando a componente tátil e a estética natural do objeto.
+##### Processos de Fabrico
+A produção do MORFY assenta num fluxo de fabrico digital focado na precisão e na segurança:
+- **Corte CNC**
+Processo único de fabrico utilizado para o corte e desbaste tridimensional de todas as componentes do brinquedo (peças orgânicas, moedas de conexão, fendas e furos redondos). A fresagem CNC garante uma precisão milimétrica na largura das ranhuras, assegurando a tolerância exata para os encaixes por pressão.
+- **Pós-Processamento e Acabamento**
+Lixagem manual rigorosa de todas as peças para o arredondamento de arestas vivas e eliminação de farpas, seguida da aplicação da pintura colorida com certificação de segurança para crianças.
+##### Software Paramétrico
+Todo o projeto foi idealizado e modelado digitalmente no software paramétrico Autodesk Fusion 360.
+##### Ficheiros Técnicos e Modelo 3D
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
+
+
+
 
 ## Função
 
