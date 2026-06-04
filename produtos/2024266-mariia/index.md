@@ -20,6 +20,8 @@ student_number: ""
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
+![](attachments/variations.jpg)
+>**Renderização (Fusion 360):** Exemplos de montagem e exploração do *MORFY*
 
 > A liberdade de construir os teus próprios personagens.
 ## Conceito
@@ -41,8 +43,6 @@ O sistema é composto por 7 peças únicas e 3 moedas de conexão, sendo que cad
 ##### Porquê?
 Porque quebrar a simetria tradicional é o primeiro passo para a verdadeira criatividade. Ao interagir com regras de encaixe simples que contrastam com formas orgânicas, a criança é incentivada a abandonar padrões rígidos, explorando novas perspetivas espaciais e transformando a montagem livre numa narrativa única e autoral.
 
-![](attachments/variations.jpg)
->**Renderização (Fusion 360):** Exemplos de montagem e exploração do *MORFY*
 ## Enquadramento
 
 ##### Posicionamento em relação ao [contexto](../../contexto.md) de grupo
@@ -99,10 +99,7 @@ O *MORFY* cumpre os requisitos essenciais da Diretiva 2009/48/CE. Ao nível das 
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/prancha_final.jpg)
 
 ---
 

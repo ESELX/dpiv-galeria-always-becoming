@@ -39,6 +39,9 @@ Modelos de Teste
 
 Desenhos manuais, pranchas de síntese, exploração de variantes.
 
+![](attachments/mariia_prancha_resumo1.jpg)
+> *Prancha-resumo de apresentação*
+
 ![](attachments/prancha_resumo1.jpg)
 > *Prancha-resumo inicial*
 ![487](attachments/sketch3.jpg)
