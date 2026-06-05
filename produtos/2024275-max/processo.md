@@ -50,11 +50,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
-![](attachments/placeholder.png)
+![](Captura%20de%20ecrã%202026-06-05%20190059.png)
 
 ## 7. Pesquisa
 
