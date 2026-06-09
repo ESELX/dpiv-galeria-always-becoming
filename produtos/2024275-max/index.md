@@ -30,7 +30,6 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 ## Conceito
 
 Ideia central do produto. O que é, para quem, porquê.
-![![](PRANCHA%20RESUMO-11%201.tif)]
 ![](attachments/placeholder.png)
 
 ## Enquadramento
@@ -48,7 +47,7 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+O brinquedo destina-se a crianças entre os 4 e os 5 anos e baseia-se na manipulação livre de um conjunto de peças modulares de formas orgânicas. Através da combinação, organização e reorganização das peças, a criança pode construir diferentes estruturas, cenários e narrativas, sem regras ou objetivos pré-definidos. A utilização não requer montagem, sendo a própria arrumação das peças no interior da caixa uma atividade complementar de composição e organização. O projeto foi desenvolvido tendo como referência os princípios de segurança estabelecidos pela Diretiva 2009/48/CE relativa à segurança dos brinquedos, privilegiando dimensões adequadas à mão de crianças desta faixa etária, de forma a facilitar a preensão, a manipulação autónoma e a exploração do objeto.
 
 ## Apresentação
 

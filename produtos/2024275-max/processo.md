@@ -16,25 +16,17 @@ published: true
 
 > Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
 
-## 1. Protótipo(s)
+## 1. Renders
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+![](wandy-10.jpg)
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+## 2. Processo de Renderização
 
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-
+![](wandy-15.jpg)
+![](wandy-12%202.jpg)
 ## 3. Protótipos Exploratórios
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
+![](wandy-14.jpg)
 
 ## 4. Modelos 3D
 
@@ -50,7 +42,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-![](Captura%20de%20ecrã%202026-06-05%20190059.png)
+
 
 ## 7. Pesquisa
 
