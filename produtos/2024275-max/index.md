@@ -30,7 +30,7 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 ## Conceito
 
 Ideia central do produto. O que é, para quem, porquê.
-
+![![](PRANCHA%20RESUMO-11%201.tif)]
 ![](attachments/placeholder.png)
 
 ## Enquadramento
