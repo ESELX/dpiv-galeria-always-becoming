@@ -51,10 +51,8 @@ O brinquedo destina-se a crianças entre os 4 e os 5 anos e baseia-se na manipul
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+![](wandy-9.jpg)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
 
 ---
 
