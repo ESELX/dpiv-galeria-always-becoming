@@ -18,7 +18,7 @@ published: true
 
 ## 1. Renders
 
-![](wandy-10.jpg)
+![](wandy-10%201.jpg)
 
 ## 2. Processo de Renderização
 
