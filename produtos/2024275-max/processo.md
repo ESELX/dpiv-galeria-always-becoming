@@ -22,11 +22,11 @@ published: true
 
 ## 2. Processo de Renderização
 
-![](wandy-15.jpg)
-![](wandy-12%202.jpg)
+![](attachments/wandy-15.jpg)
+![](attachments/wandy-12_2.jpg)
 ## 3. Protótipos Exploratórios
 
-![](wandy-14.jpg)
+![](attachments/wandy-14.jpg)
 
 ## 4. Modelos 3D
 
