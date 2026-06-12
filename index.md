@@ -17,7 +17,7 @@ group_number: ""
 
 # Always Becoming
 
-> *Desenvolvemos uma coleção de objetos táteis onde cada peça é o início de uma nova forma de brincar.*
+> Desenvolvemos uma coleção de objetos táteis onde cada peça é o início de uma nova forma de brincar.
 
 ## Elementos do Grupo
 
@@ -33,7 +33,7 @@ group_number: ""
 
 ## Contexto de Design
 ![](attachments/all_products.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
+> *Imagem gerada por Inteligência Artificial (Gemini)*
 
 Este projeto cria objetos versáteis e sem funções predefinidas, tornando a criança a verdadeira autora da brincadeira. Cada brinquedo traz consigo um tema ou uma restrição básica, uma moldura que define a regra inicial. A partir dessa estrutura, seja um personagem, um rosto, uma flor ou um ambiente, abre-se um espaço de total liberdade para explorar e inventar sem limites.
 
@@ -65,7 +65,7 @@ Funcionalmente, todos os artigos atuam como plataformas de desenvolvimento táti
     <p>Mariia Novytska</p>
   </a>
     <a class="gallery-card" href="produtos/2024275-max/">
-    <img src="produtos/2024275-max/attachments/hero.png" alt="" />
+    <img src="produtos/2024275-max/attachments/hero.jpg" alt="" />
     <h3>WANDY</h3>
     <p>Max Puga</p>
   </a>  <a class="gallery-card" href="produtos/2024570-carol/">
