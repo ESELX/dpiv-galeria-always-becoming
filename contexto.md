@@ -14,8 +14,6 @@ published: true
 
 # Contexto de Design
 
-Página explicativa do contexto, em concordância com a apresentação produzida em grupo. Componente de **grupo**.
-
 ## 1. Resumo / Abstract
 
 ### Resumo (PT)
@@ -28,9 +26,11 @@ This project stems from a mission to create versatile objects without predefined
 Each piece is an invitation to composition and storytelling, allowing little ones to build their own worlds where chaos has logic and imagination is the only rule.
 ## 2. Referências Coletivas
 
+Na fase inicial do projeto, reunimos referências visuais de diversos objetos, que iam além do universo dos brinquedos, incluindo esculturas e peças de diferentes materiais. Através da partilha e discussão em grupo, identificámos os pontos comuns que nos inspiravam e definimos o nosso caminho. Como esta pesquisa inicial era muito abrangente, filtrámos as referências para garantir um conceito claro e coeso no nosso _moodboard_. Apresentamos, de seguida, as principais referências que moldaram a criação dos nossos produtos.
+
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-Catálogo de objetos de partida que o grupo identificou para o redesenho.
+O nosso objetivo nunca foi replicar brinquedos ou jogos existentes. Por isso, focámo-nos essencialmente na forma e na sensação que os objetos de referência nos transmitiam.
 
 ![Objeto 1](attachments/keep_on_playing.jpg)
 
@@ -45,6 +45,16 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho.
 - **Objeto 3** — Escultura / Amélie Dauteur, artista visual e ceramista francesa / Peças com forte presença gráfica
 ### 2.2. Moodboard
 
-Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
+O _moodboard_ funcionou como a nossa ferramenta de curadoria e afunilamento conceptual. Nele, reunimos referências onde a forma e a restrição material coexistem em harmonia.
 
 ![Moodboard](attachments/moodboard.jpg)
+O painel visual sintetiza a essência estética do projeto, onde a escultura abstrata encontra o jogo livre. Através de referências que exploram volumes modulares, formas orgânicas inspiradas na natureza e traços antropomórficos minimalistas, definimos o tom da nossa coleção.
+
+As principais palavras-chave que captam a essência do nosso moodboard:
+- **Biomórfico / Orgânico
+- **Abstração
+- **Modularidade / Camadas
+- **Expressividade Inocente
+- **Sensorial / Tátil
+- **Blocos de Cor (*Color Blocking*)
+- **Antropomorfismo Minimalista

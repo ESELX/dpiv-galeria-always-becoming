@@ -100,6 +100,4 @@ O *MORFY* cumpre os requisitos essenciais da Diretiva 2009/48/CE. Ao nível das 
 
 ## Processo
 
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](processo.md), organizado do **mais recente** para o **mais antigo**.
-
 [Ver processo completo →](processo.md)
