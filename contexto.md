@@ -34,15 +34,19 @@ O nosso objetivo nunca foi replicar brinquedos ou jogos existentes. Por isso, fo
 
 ![Objeto 1](attachments/keep_on_playing.jpg)
 
-- **Objeto 1** — O estúdio "milimbo" / Workshops in Valencia and prototypes for Fundació Joan Miró (2019) / Os brinquedos são modulares, transformáveis e refletem na perfeição o seu objetivo de proporcionar uma brincadeira sem limites.
+- **Objeto 1** — ***Milimbo***, estudo / Workshops in Valencia and prototypes for Fundació Joan Miró (2019) / Os brinquedos são modulares, transformáveis e refletem na perfeição o seu objetivo de proporcionar uma brincadeira sem limites
 
 ![](attachments/Clare_Birtwistle.jpg)
 
-- **Objeto 2** — Arte Abstrata / Artista e designer freelancer britânica **Clare Birtwistle** / Uso de formas geométricas limpas, paletas de cores contrastantes e uma forte abordagem minimalista e redutiva
+- **Objeto 2** — ***Relief Work***, Arte Abstrata / Artista e designer freelancer britânica *Clare Birtwistle* / Uso de formas geométricas limpas, paletas de cores contrastantes e uma forte abordagem minimalista e redutiva
 
 ![](attachments/Amelie_Dauteur.jpg)
 
-- **Objeto 3** — Escultura / Amélie Dauteur, artista visual e ceramista francesa / Peças com forte presença gráfica
+- **Objeto 3** — ***Sur commande***, Escultura / *Amélie Dauteur*, artista visual e ceramista francesa / Peças com forte presença gráfica
+
+![](attachments/happy_chair.jpg)
+
+- **Objeto 3** — ***MY HAPPY CHAIR***, Escultura / *Mireia Ruiz*, Artista e designer gráfico residente em Barcelona / Formas geométricas fortes, uma paleta de cores dinâmica e uma comunicação baseada na positividade visual
 ### 2.2. Moodboard
 
 O _moodboard_ funcionou como a nossa ferramenta de curadoria e afunilamento conceptual. Nele, reunimos referências onde a forma e a restrição material coexistem em harmonia.
