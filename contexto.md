@@ -32,19 +32,19 @@ Na fase inicial do projeto, reunimos referências visuais de diversos objetos, q
 
 O nosso objetivo nunca foi replicar brinquedos ou jogos existentes. Por isso, focámo-nos essencialmente na forma e na sensação que os objetos de referência nos transmitiam.
 
-![Objeto 1](attachments/keep_on_playing.jpg)
+![Objeto 1|363](attachments/keep_on_playing.jpg)
 
 - **Objeto 1** — ***Milimbo***, estudo / Workshops in Valencia and prototypes for Fundació Joan Miró (2019) / Os brinquedos são modulares, transformáveis e refletem na perfeição o seu objetivo de proporcionar uma brincadeira sem limites
 
-![](attachments/Clare_Birtwistle.jpg)
+![363](attachments/Clare_Birtwistle.jpg)
 
 - **Objeto 2** — ***Relief Work***, Arte Abstrata / Artista e designer freelancer britânica *Clare Birtwistle* / Uso de formas geométricas limpas, paletas de cores contrastantes e uma forte abordagem minimalista e redutiva
 
-![](attachments/Amelie_Dauteur.jpg)
+![363](attachments/Amelie_Dauteur.jpg)
 
 - **Objeto 3** — ***Sur commande***, Escultura / *Amélie Dauteur*, artista visual e ceramista francesa / Peças com forte presença gráfica
 
-![](attachments/happy_chair.jpg)
+![363](attachments/happy_chair.jpg)
 
 - **Objeto 3** — ***MY HAPPY CHAIR***, Escultura / *Mireia Ruiz*, Artista e designer gráfico residente em Barcelona / Formas geométricas fortes, uma paleta de cores dinâmica e uma comunicação baseada na positividade visual
 ### 2.2. Moodboard
