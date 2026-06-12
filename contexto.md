@@ -63,3 +63,17 @@ As principais palavras-chave que captam a essência do nosso moodboard:
 - Sensorial / Tátil
 - Blocos de Cor (*Color Blocking*)
 - Antropomorfismo Minimalista
+
+## 3. Embalagem
+
+O design da embalagem prima pelo minimalismo, utilizando uma caixa de cartão canelado com grafismos impressos exclusivamente a preto. A distinção entre os diferentes produtos da coleção é feita de forma prática, através de um autocolante aplicado no topo da caixa que identifica o brinquedo no seu interior.
+
+![](attachments/NESTOR_Box_Mockup.png)
+![](attachments/box_mockup.png)
+
+>*Mockups da caixa NESTOR*
+
+Os brinquedos que têm peças mais pequenas seriam colocados no recorte personalizado para garantir que as peças cabem na caixa e não serão danificadas durante o transporte ou manuseamento
+
+![](attachments/mockup_ai.png)
+> Simulação de embalagem com recorte interno personalizado. *Imagem gerada por Inteligência Artificial (Gemini)*
