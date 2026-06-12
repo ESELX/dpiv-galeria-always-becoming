@@ -34,7 +34,7 @@ O nosso objetivo nunca foi replicar brinquedos ou jogos existentes. Por isso, fo
 
 ![Objeto 1|363](attachments/keep_on_playing.jpg)
 
-- **Objeto 1** — ***Milimbo***, estudo / Workshops in Valencia and prototypes for Fundació Joan Miró (2019) / Os brinquedos são modulares, transformáveis e refletem na perfeição o seu objetivo de proporcionar uma brincadeira sem limites
+- **Objeto 1** — ***Milimbo***, estudo / [Workshops in Valencia and prototypes for Fundació Joan Miró (2019)](https://milimboblog.blogspot.com/2019/01/keep-on-playing.html) / Os brinquedos são modulares, transformáveis e refletem na perfeição o seu objetivo de proporcionar uma brincadeira sem limites
 
 ![363](attachments/Clare_Birtwistle.jpg)
 
@@ -46,7 +46,7 @@ O nosso objetivo nunca foi replicar brinquedos ou jogos existentes. Por isso, fo
 
 ![363](attachments/happy_chair.jpg)
 
-- **Objeto 3** — ***MY HAPPY CHAIR***, Escultura / *Mireia Ruiz*, Artista e designer gráfico residente em Barcelona / Formas geométricas fortes, uma paleta de cores dinâmica e uma comunicação baseada na positividade visual
+- **Objeto 3** — [***MY HAPPY CHAIR***](http://www.cocolia.cat/ca/veure/projecte/159/MY-HAPPY-CHAIR-MIREIA-RUIZ-2015), Escultura / *Mireia Ruiz*, Artista e designer gráfico residente em Barcelona / Formas geométricas fortes, uma paleta de cores dinâmica e uma comunicação baseada na positividade visual
 ### 2.2. Moodboard
 
 O _moodboard_ funcionou como a nossa ferramenta de curadoria e afunilamento conceptual. Nele, reunimos referências onde a forma e a restrição material coexistem em harmonia.
