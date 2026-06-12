@@ -17,7 +17,7 @@ group_number: ""
 
 # Always Becoming
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> *Desenvolvemos uma coleção de objetos táteis onde cada peça é o início de uma nova forma de brincar.*
 
 ## Elementos do Grupo
 
@@ -32,12 +32,16 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
+![](attachments/all_products.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+Este projeto cria objetos versáteis e sem funções predefinidas, tornando a criança a verdadeira autora da brincadeira. Cada brinquedo traz consigo um tema ou uma restrição básica, uma moldura que define a regra inicial. A partir dessa estrutura, seja um personagem, um rosto, uma flor ou um ambiente, abre-se um espaço de total liberdade para explorar e inventar sem limites.
 
-Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
+### Conceito e Função Gerais
+
+A ligação essencial entre todas as peças é o equilíbrio entre estrutura e liberdade. O ponto de partida serve apenas como um gatilho para a criatividade, estimulando os mais pequenos a desenvolverem um raciocínio próprio a partir desse primeiro impulso. Os quatro universos partilham a mesma linguagem de formas orgânicas, garantindo que, embora cada proposta comece com um foco definido, as peças permaneçam conceptualmente abertas.
+
+Funcionalmente, todos os artigos atuam como plataformas de desenvolvimento tátil e cognitivo. Independentemente do mote inicial, a verdadeira dinâmica do conjunto é servir de bloco de construção para empilhar, encaixar e transformar. O resultado final nunca é estático.
 
 [Ver contexto completo →](contexto.md)
 

@@ -17,6 +17,9 @@ published: true
 ## 1. Modelos 3D
 
 #### Modelo 3D Principal - Autodesk Fusion 360
+
+
+
 Embed do Fusion (visualização do modelo paramétrico)
 https://a360.co/3S1agf1
 
@@ -56,7 +59,10 @@ Desenhos manuais, pranchas de síntese, exploração de variantes.
 
 ## 4. Pesquisa
 
+
 ## 5. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+
+formas organicas, cores primarias
 
 ![](../../attachments/moodboard.jpg)
 
