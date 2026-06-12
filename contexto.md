@@ -55,10 +55,11 @@ O _moodboard_ funcionou como a nossa ferramenta de curadoria e afunilamento conc
 O painel visual sintetiza a essência estética do projeto, onde a escultura abstrata encontra o jogo livre. Através de referências que exploram volumes modulares, formas orgânicas inspiradas na natureza e traços antropomórficos minimalistas, definimos o tom da nossa coleção.
 
 As principais palavras-chave que captam a essência do nosso moodboard:
-- **Biomórfico / Orgânico
-- **Abstração
-- **Modularidade / Camadas
-- **Expressividade Inocente
-- **Sensorial / Tátil
-- **Blocos de Cor (*Color Blocking*)
-- **Antropomorfismo Minimalista
+
+- Biomórfico / Orgânico
+- Abstração
+- Modularidade / Camadas
+- Expressividade Inocente
+- Sensorial / Tátil
+- Blocos de Cor (*Color Blocking*)
+- Antropomorfismo Minimalista
