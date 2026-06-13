@@ -54,7 +54,7 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
+![](attachments/esboconestor.png)
 
 ## 7. Pesquisa
 
@@ -62,11 +62,17 @@ exploração de variantes.
 
 ![](attachments/placeholder.png)
 
-### 7.2. Objetos de referencia
+### 7.2. Objetos de referência
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+Mythical creatures - Bajo Toys
+*Design por Sebastian Rubiano*
 
-![](attachments/placeholder.png)
+![697](attachments/ref1.jpg)
+
+Abstract Art - Bajo Toys
+*Design por Anna Bajor*
+
+![](attachments/ref2.jpg)
 
 ## 9. Outros Elementos
 
