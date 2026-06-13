@@ -22,22 +22,45 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Um conjunto de formas abertas que se adapta tanto ao material disponível como à imaginação de quem brinca.
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+> Onde cada forma se torna uma nova possibilidade de brincar.
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
 ![](attachments/placeholder.png)
+>**Renderização (Fusion 360):** 
+
+WANDY propõe uma experiência de brincadeira aberta, onde as formas não impõem significados nem funções específicas. Em vez de orientar a criança para um resultado, oferece possibilidades para explorar, imaginar e construir livremente.
+
+O que é?
+
+O WANDY é um brinquedo composto por um conjunto de 15 formas orgânicas que se organizam no interior de uma caixa, ocupando completamente o seu espaço. Quando retiradas, as peças podem ser reorganizadas de inúmeras formas, dando origem a diferentes estruturas, cenários e interpretações.
+
+![](attachments/placeholder.png)
+>**Renderização (Fusion 360):**
+
+As mesmas peças podem assumir diferentes papéis ao longo da brincadeira: aquilo que num momento pode sugerir uma montanha, no seguinte pode transformar-se num animal, numa ponte ou numa casa. Sem impor uma utilização específica, o brinquedo adapta-se às ideias da criança, acompanhando a evolução das suas construções e narrativas ao longo dos anos.
+
+Porquê?
+
+Num contexto em que muitos brinquedos procuram orientar a brincadeira através de objetivos, instruções ou intenções pedagógicas explícitas, o WANDY propõe uma abordagem diferente. O brincar é entendido como um fim em si mesmo: um espaço de lazer, experimentação e autonomia, onde a criança assume um papel ativo na construção da experiência. Através de formas ambíguas e abertas, o brinquedo adapta-se às necessidades e narrativas de cada momento, prolongando o seu significado e acompanhando a criança ao longo do tempo.
+
+Para quem?
+
+**Crianças -** Porque são as protagonistas da experiência de brincadeira e os principais destinatários da missão do projeto, encontrando no WANDY um objeto que acompanha a sua curiosidade, autonomia e vontade de agir sobre o mundo que constroem.
+
+**Pais -** Porque valorizam brinquedos duráveis, versáteis e capazes de acompanhar o desenvolvimento da criança através de múltiplas utilizações.
+
+**Educadores -** Porque reconhecem o potencial da brincadeira aberta como ferramenta para estimular a criatividade, a comunicação e a resolução de problemas através da experimentação.
+
 
 ## Enquadramento
 
-O brinquedo desenvolvido enquadra-se na temática do projeto através da exploração de formas orgânicas e da construção livre de ambientes e cenários imaginários. Em vez de representar objetos ou elementos específicos, as peças funcionam como formas abertas à interpretação, permitindo que cada criança atribua os seus próprios significados e construa diferentes narrativas durante a brincadeira.
+No contexto do projeto coletivo, o WANDY representa o conceito dos ambientes, explorando a construção de paisagens e cenários que funcionam como suporte para a brincadeira. Através desta abordagem, posiciona-se como um brinquedo que convida à construção de mundos e à transformação contínua do espaço de ação.
 
-A composição inicial das peças dentro da caixa constitui apenas um ponto de partida. Através da reorganização dos elementos, surgem novas relações, estruturas e paisagens, reforçando a ideia de que não existe uma única forma correta de brincar. Desta forma, o projeto procura materializar os princípios definidos pelo grupo, valorizando a experimentação, a descoberta e a liberdade criativa.
+A conceção do brinquedo foi particularmente influenciada pelo universo dos brinquedos Grimm's, cuja simplicidade formal e qualidade quase escultórica demonstram como elementos simples podem dar origem a construções visualmente ricas e inesperadas. Mais do que representar objetos específicos, estes brinquedos valorizam a liberdade criativa e a beleza das composições que surgem durante o brincar. O WANDY procura traduzir esses princípios através de formas abertas que acompanham a imaginação da criança e permitem que uma mesma peça seja, sucessivamente, muitas coisas diferentes.
 
+![](attachments/placeholder.png)
+>**Renderização (Fusion 360):** 
 ## Tecnologia
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
