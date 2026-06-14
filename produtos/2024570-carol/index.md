@@ -70,6 +70,7 @@ Após o corte, todas as peças passam por lixagem manual para eliminar arestas e
 #### Software Paramétrico
 Todo o projeto foi modelado digitalmente no software paramétrico Autodesk Fusion 360.
 ##### Modelo 3D
+https://a360.co/4osv0Zb
 ## Função
 
 #### Como se brinca
