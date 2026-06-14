@@ -56,7 +56,7 @@ O _LOOKY_ insere-se no conceito do grupo através do tema dos rostos, usando-o c
 Desta forma, o LOOKY posiciona-se no contexto do grupo como um facilitador do jogo livre e da expressão criativa, onde a estrutura existe apenas para dar um ponto de partida, e a imaginação da criança faz o resto.
 
 #### Objeto da inspiração principal
-![599](attachments/mr%20potato%20head%202.png)
+![](attachments/mr%20potato%20head%202.png)
 - **Objeto 1** — Mr.Potato Head
 ## Tecnologia
 
@@ -70,7 +70,6 @@ Após o corte, todas as peças passam por lixagem manual para eliminar arestas e
 #### Software Paramétrico
 Todo o projeto foi modelado digitalmente no software paramétrico Autodesk Fusion 360.
 ##### Modelo 3D
-https://a360.co/3S1agf1
 ## Função
 
 #### Como se brinca
