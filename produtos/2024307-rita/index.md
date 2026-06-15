@@ -3,7 +3,7 @@ title: FLOWERY
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.png
+hero_image: attachments/kids.png
 hero_title: FLOWERY
 hero_subtitle: Ana Rita Queta · 2025-26
 hero_height: 80vh
@@ -23,47 +23,45 @@ student_number: ""
 -->
 
 > A liberdade de construir os teus próprios personagens.
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
-**PT**
+O FLOWERY é um brinquedo composto por 15 peças de madeira. É destinado a crianças dentro da faixa etária entre os **4-5 anos** e é um brinquedo didático e criativo, permitindo várias tipo de combinações. *Render otimizado com o auxílio do Gemini AI.*
 
-O FLOWERY é um brinquedo composto por 9 peças de madeira. É destinado a crianças dentro da faixa etária entre os 4-5 anos e é um brinquedo didático e criativo, permitindo várias tipo de combinações. *Render otimizado com o auxílio do Gemini AI.*
-
-**EN**
-
-FLOWERY is a toy with 9 wooden pieces. It's targeted towards children ages 4-5, it has both didatic and creative elements, allowing any child to try out different combinations. *Render otimized with the aid of Gemini AI.*
-
-
-
-![](attachments/brinquedos.png)
-
+![696](attachments/brinquedos.png)
+**Renderização (Fusion 360):** Exemplos de montagem do *FLOWERY*
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+Posicionamento em relação ao [contexto](../../contexto.md) de grupo 
+
+O *FLOWERY* insere-se no conceito do grupo através do esquema cromático definido e do fator *mix-n-match*. 
+
+**O que é?**
+
+O FLOWERY é um brinquedo modular composto por um conjunto de 15 peças, organizadas em três tipologias distintas: 5 peças longas, 5 peças curtas que funcionam como base estrutural, e 5 peças com morfologia inspirada em flores. Esta divisão tipológica permite uma ampla variedade de combinações formais, incentivando a experimentação compositiva e a exploração espacial por parte do utilizador. 
+
+Ao nível do sistema de encaixe, é utilizado um mecanismo aberto baseado em slots, complementado por dogbones nas peças base. Este tipo de solução técnica facilita o processo de montagem e desmontagem, permitindo uma interação intuitiva e acessível, ao mesmo tempo que assegura a precisão dos encaixes e a durabilidade das peças. A escolha de um sistema aberto promove ainda a liberdade criativa, não impondo uma única forma final, mas antes incentivando múltiplas configurações e narrativas construtivas.
 
 ## Tecnologia
 
-**Materiais:** madeira de carvalho; uso de placa de madeira reutilizada do FabLab Benfica. 
+**Materiais:** Madeira de carvalho pela sua robustez, uso de placas de madeira disponíveis no FabLab Benfica. 
+
 **Tecnologia**: corte efetuado com a fresadora CNC.
+
 **Software paramétrico:** Autodesk Fusion.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/brinquedos.png`
+- Modelo 3D: [<!-- embed Fusion ou link a360.co -->](https://a360.co/4eHcBEK) 
 
 ## Função
 
 **Como se brinca?**
-Este brinquedo destina-se á faixa etária dos 4 a 5 anos, a sua montagem é simples, baseando-se no encaixe de cada peça consoante os buracos/espaços para fazê-lo. 
+
+Brincar com o FLOWERY apenas leva três etapas. Primeiro monta-se a base com uma peça longa e uma peça pequena, depois a flor no topo e a terceira etapa é da escolha da criança, podendo retirar e juntar qualquer peça com outra. 
 ## Apresentação
 
 Imagens geradas com o auxílio com a Gemini IA.
 
 ![](attachments/kids.png)
-![](attachments/girl.png)
+
 
 ---
 
