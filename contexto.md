@@ -51,7 +51,8 @@ O nosso objetivo nunca foi replicar brinquedos ou jogos existentes. Por isso, fo
 
 O _moodboard_ funcionou como a nossa ferramenta de curadoria e afunilamento conceptual. Nele, reunimos referências onde a forma e a restrição material coexistem em harmonia.
 
-![Moodboard](attachments/moodboard.jpg)
+![](dpiv-galeria-always-becoming/attachments/moodboard.png)
+
 O painel visual sintetiza a essência estética do projeto, onde a escultura abstrata encontra o jogo livre. Através de referências que exploram volumes modulares, formas orgânicas inspiradas na natureza e traços antropomórficos minimalistas, definimos o tom da nossa coleção.
 
 As principais palavras-chave que captam a essência do nosso moodboard:

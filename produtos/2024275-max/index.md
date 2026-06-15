@@ -27,7 +27,7 @@ student_number: ""
 ## Conceito
 
 ![](attachments/wandy%20-%203.png)
->**Renderização (Fusion 360):** 
+>**Renderização (Fusion 360):** Cenário de Utilização do WANDY.
 
 WANDY propõe uma experiência de brincadeira aberta, onde as formas não impõem significados nem funções específicas. Em vez de orientar a criança para um resultado, oferece possibilidades para explorar, imaginar e construir livremente.
 
@@ -35,8 +35,8 @@ O que é?
 
 O WANDY é um brinquedo composto por um conjunto de 15 formas orgânicas que se organizam no interior de uma caixa, ocupando completamente o seu espaço. Quando retiradas, as peças podem ser reorganizadas de inúmeras formas, dando origem a diferentes estruturas, cenários e interpretações.
 
-![](attachments/wandy%20-%20formas.jpg)
->**Renderização (Fusion 360):**
+![](wandy%20-%206.jpg)
+>**Renderização (Fusion 360):** Peças do WANDY.
 
 As mesmas peças podem assumir diferentes papéis ao longo da brincadeira: aquilo que num momento pode sugerir uma montanha, no seguinte pode transformar-se num animal, numa ponte ou numa casa. Sem impor uma utilização específica, o brinquedo adapta-se às ideias da criança, acompanhando a evolução das suas construções e narrativas ao longo dos anos.
 
@@ -59,8 +59,8 @@ No contexto do projeto coletivo, o WANDY desenvolve o conceito dos ambientes, ce
 
 A conceção do brinquedo foi particularmente influenciada pelo universo dos brinquedos Grimm's, cuja simplicidade formal e qualidade quase escultórica demonstram como elementos simples podem dar origem a construções visualmente ricas e inesperadas. Mais do que representar objetos específicos, estes brinquedos valorizam a liberdade criativa e a beleza das composições que surgem durante o brincar. O WANDY procura traduzir esses princípios através de formas abertas que acompanham a imaginação da criança e permitem que uma mesma peça seja, sucessivamente, muitas coisas diferentes.
 
-![](attachments/placeholder.png)
->**Renderização (Fusion 360):** 
+![](wandy%20-%208.png)
+>**MoodBoard:** Produtos Grimm's.
 ## Tecnologia
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
@@ -74,7 +74,7 @@ O brinquedo destina-se a crianças entre os 4 e os 5 anos e baseia-se na manipul
 
 ## Apresentação
 
-![](wandy-9.jpg)
+![](wandy%20-%209.jpg)
 
 
 ---
