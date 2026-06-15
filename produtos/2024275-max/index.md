@@ -59,7 +59,7 @@ No contexto do projeto coletivo, o WANDY desenvolve o conceito dos ambientes, ce
 
 A conceção do brinquedo foi particularmente influenciada pelo universo dos brinquedos Grimm's, cuja simplicidade formal e qualidade quase escultórica demonstram como elementos simples podem dar origem a construções visualmente ricas e inesperadas. Mais do que representar objetos específicos, estes brinquedos valorizam a liberdade criativa e a beleza das composições que surgem durante o brincar. O WANDY procura traduzir esses princípios através de formas abertas que acompanham a imaginação da criança e permitem que uma mesma peça seja, sucessivamente, muitas coisas diferentes.
 
-![](wandy%20-%208.png)
+![](attachments/wandy%20-%208.png)
 >**MoodBoard:** Produtos Grimm's.
 ## Tecnologia
 
