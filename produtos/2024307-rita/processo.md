@@ -13,67 +13,56 @@ published: true
 ---
 
 # Processo
-
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
-## 1. Protótipo(s)
+## 1. Renders finais
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![Protótipo final](attachments/brinquedos.png)
 ![](attachments/placeholder.png)
 
-## 2. Processo de Prototipagem
+## 2. Modelo de teste (Fusion)
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+![](attachments/beta.png)
 
-![](attachments/placeholder.png)
+## 3. Modelos 3D
 
+[https://a360.co/4nqYoPa](https://a360.co/4eHcBEK)
+## 4. Esboços e Pranchas-Resumo
 
-## 3. Protótipos Exploratórios
+![697](attachments/FLOWERY.png)
+>*Prancha resumo final.*
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
+![697](attachments/esboconestor.png)
+>_Desenho de criança a brincar com as peças.
 
-![](attachments/placeholder.png)
+![697](attachments/folha1.png)
+>*Esboços manuais.*
 
-## 4. Modelos 3D
+![697](attachments/planeamento.png)
+>*Esboços digitais.
 
-Embed do Fusion (visualização do modelo paramétrico).
+![697](attachments/prancha8.jpg)
+>*Primeira prancha resumo.*
+## 5. Pesquisa
 
-https://a360.co/4nqYoPa
+### 5.1. Aspectos valorizados do moodboard, desconstrução da forma 
 
-## 5. Outros Modelos
+Tendo como ponto de partida a moodboard, valorizei a simplificação das formas e a palete de cores escolhida em coletivo (que teve como referência as cores da moodboard). 
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+![](attachments/moodboard12.jpg)
 
-![](attachments/placeholder.png)
+### 5.2. Objetos de referência
 
-## 6. Esboços e Pranchas-Resumo
-
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
-![](attachments/esboconestor.png)
-
-## 7. Pesquisa
-
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](attachments/placeholder.png)
-
-### 7.2. Objetos de referência
-
-Mythical creatures - Bajo Toys
-*Design por Sebastian Rubiano*
+**Mythical creatures - Bajo Toys**
 
 ![697](attachments/ref1.jpg)
+>*Design por Sebastian Rubiano*.
 
-Abstract Art - Bajo Toys
-*Design por Anna Bajor*
+
+**Abstract Art - Bajo Toys**
 
 ![](attachments/ref2.jpg)
-
-## 9. Outros Elementos
+>*Design por Anna Bajor*.
+## 6. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
