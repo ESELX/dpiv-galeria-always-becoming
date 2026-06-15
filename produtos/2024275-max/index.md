@@ -27,7 +27,7 @@ student_number: ""
 ## Conceito
 
 ![](attachments/wandy%20-%203.png)
->**Renderização (Fusion 360):** Cenário de Utilização do WANDY.
+>**Renderização (Fusion 360):** Cenário de Utilização do WANDY. _(Imagem gerada por IA)_
 
 WANDY propõe uma experiência de brincadeira aberta, onde as formas não impõem significados nem funções específicas. Em vez de orientar a criança para um resultado, oferece possibilidades para explorar, imaginar e construir livremente.
 
@@ -36,7 +36,7 @@ WANDY propõe uma experiência de brincadeira aberta, onde as formas não impõe
 O WANDY é um brinquedo composto por um conjunto de 15 formas orgânicas que se organizam no interior de uma caixa, ocupando completamente o seu espaço. Quando retiradas, as peças podem ser reorganizadas de inúmeras formas, dando origem a diferentes estruturas, cenários e interpretações.
 
 ![](attachments/wandy%20-%206.jpg)
->**Renderização (Fusion 360):** Peças do WANDY.
+>**Renderização (Fusion 360):** Peças do WANDY. _(Imagem editada por IA)_
 
 As mesmas peças podem assumir diferentes papéis ao longo da brincadeira: aquilo que num momento pode sugerir uma montanha, no seguinte pode transformar-se num animal, numa ponte ou numa casa. Sem impor uma utilização específica, o brinquedo adapta-se às ideias da criança, acompanhando a evolução das suas construções e narrativas ao longo dos anos.
 
@@ -76,6 +76,9 @@ A produção do WANDY recorre à fabricação digital através de corte CNC, uti
 
 Devido à utilização de madeira com diferentes espessuras, são preparados três Arranges distintos no Autodesk Fusion 360, correspondentes às alturas definidas para as peças (1, 1,5 e 2 cm). Para o corte dos componentes, optei pela utilização de uma fresa de topo plano (_flat end mill_) de 6 mm, adequada ao trabalho em madeira de carvalho e à precisão exigida pelo projeto. Foram igualmente incorporados _dogbones_ nos pontos necessários, permitindo compensar o raio da ferramenta e assegurar a correta execução das geometrias previstas. O brinquedo foi, desde o início, concebido para responder às exigências e potencialidades da fabricação digital.
 
+![](attachments/placeholder.png)
+>**Renderização (Fusion 360):** Os 3 Arranges. _(Imagem editada por IA)_
+
 Após a maquinação, todas as componentes são sujeitas a lixagem manual para eliminar farpas e suavizar arestas. Por fim, é aplicada pintura com certificação de segurança para brinquedos, assegurando condições adequadas à utilização infantil.
 
 **Software Paramétrico**:
@@ -83,6 +86,9 @@ Após a maquinação, todas as componentes são sujeitas a lixagem manual para e
 Todo o projeto foi desenvolvido digitalmente no Autodesk Fusion 360, utilizado na modelação tridimensional das peças e da caixa, bem como na preparação dos ficheiros necessários à fabricação digital.
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
+
+![](attachments/placeholder.png)
+>**MoodBoard:** Produtos Grimm's.
 
 **Produção Aberta e Adaptável**:
 
@@ -92,9 +98,9 @@ Mantendo constantes aspetos como o número de peças, o espaço útil da caixa, 
 
 Esta abordagem reforça a ideia de que não existe uma única solução correta: nem para brincar, nem para produzir. O brinquedo deixa de ser entendido como um objeto fechado e passa a funcionar como um sistema aberto, adaptável aos recursos disponíveis e capaz de gerar novas possibilidades ao longo do tempo.
 
+![](attachments/placeholder.png)
+>Possíveis Variações de Padrão _(Imagem editada por IA)_
 
-
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
 
 ## Função
@@ -107,7 +113,7 @@ O projeto foi desenvolvido tendo como referência os princípios de segurança e
 
 ## Apresentação
 
-![](wandy%20-%209.jpg)
+![](attachments/wandy%20-%209.jpg)
 
 
 ---
