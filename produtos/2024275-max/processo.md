@@ -34,7 +34,7 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. ## Modelos 3D
+## 5. Modelos 3D
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
@@ -71,3 +71,5 @@ As expressões gráficas integradas em algumas peças surgiram como uma forma de
 O rosto recortado na base da caixa corresponde ao símbolo da marca e surgiu como uma estratégia de reforço da sua identidade visual, permitindo estabelecer uma ligação imediata entre o produto e o universo gráfico que o acompanha. Este detalhe procura tornar a marca reconhecível e consistente ao longo das diferentes aplicações dos seus produtos, demonstrando como decisões aparentemente secundárias podem também contribuir para a construção da experiência global do brinquedo.
 
 Desta forma, o WANDY afirma-se não apenas como um conjunto de peças, mas como um sistema aberto onde materialidade, identidade visual e processo de fabrico participam igualmente na definição da experiência de brincar.
+
+![](attachments/placeholder.png)
