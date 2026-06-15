@@ -68,13 +68,13 @@ A conceção do brinquedo foi particularmente influenciada pelo universo dos bri
 
 O material selecionado para o WANDY é a madeira de carvalho. A escolha desta espécie deve-se à sua elevada densidade, resistência mecânica e durabilidade, características fundamentais para suportar a utilização contínua associada ao brincar infantil. Visualmente, o carvalho confere um acabamento texturado e orgânico através dos seus veios característicos, valorizando a componente tátil do objeto.
 
-Como o projeto NESTOR assenta na reutilização de excedentes da indústria do mobiliário, defini três alturas possíveis para as peças: 1, 1,5 e 2 centímetros. No entanto, não existe uma correspondência fixa entre cada forma e cada altura. Essa distribuição pode variar consoante o material disponível, permitindo adaptar a produção aos excedentes existentes e tornando o sistema mais flexível e menos dependente de regras rígidas.
+Como o projeto NESTOR assenta na reutilização de excedentes da indústria do mobiliário, defini três alturas possíveis para as peças: 10, 15 e 20 milímetros. No entanto, não existe uma correspondência fixa entre cada forma e cada altura. Essa distribuição pode variar consoante o material disponível, permitindo adaptar a produção aos excedentes existentes e tornando o sistema mais flexível e menos dependente de regras rígidas.
 
 **Processo de Fabrico**:
 
 A produção do WANDY recorre à fabricação digital através de corte CNC, utilizada para produzir as quinze peças e os componentes da caixa. O processo inicia-se com a preparação dos ficheiros de fabrico e a definição dos parâmetros de maquinação, incluindo a seleção das ferramentas adequadas, a configuração da origem do corte e a verificação prévia do percurso do mesmo.
 
-Devido à utilização de madeira com diferentes espessuras, são preparados três Arranges distintos no Autodesk Fusion 360, correspondentes às alturas definidas para as peças (1, 1,5 e 2 cm). Para o corte dos componentes, optei pela utilização de uma fresa de topo plano (_flat end mill_) de 6 mm, adequada ao trabalho em madeira de carvalho e à precisão exigida pelo projeto. Foram igualmente incorporados _dogbones_ nos pontos necessários, permitindo compensar o raio da ferramenta e assegurar a correta execução das geometrias previstas. O brinquedo foi, desde o início, concebido para responder às exigências e potencialidades da fabricação digital.
+Devido à utilização de madeira com diferentes espessuras, são preparados três Arranges distintos no Autodesk Fusion 360, correspondentes às alturas definidas para as peças (10, 15 e 20 mm). Para o corte dos componentes, optei pela utilização de uma fresa de topo plano (_flat end mill_) de 6 mm, adequada ao trabalho em madeira de carvalho e à precisão exigida pelo projeto. Foram igualmente incorporados _dogbones_ nos pontos necessários, permitindo compensar o raio da ferramenta e assegurar a correta execução das geometrias previstas. O brinquedo foi, desde o início, concebido para responder às exigências e potencialidades da fabricação digital.
 
 ![](attachments/placeholder.png)
 >**Renderização (Fusion 360):** Os 3 Arranges. _(Imagem editada por IA)_
