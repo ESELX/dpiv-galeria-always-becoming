@@ -3,7 +3,7 @@ title: FLOWERY
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/kids.png
+hero_image: attachments/kidsnew.png
 hero_title: FLOWERY
 hero_subtitle: Ana Rita Queta · 2025-26
 hero_height: 80vh
@@ -29,6 +29,9 @@ O *FLOWERY* é um brinquedo composto por 15 peças de madeira. É destinado a cr
 
 ![696](attachments/brinquedos.png)
 >***Renderização (Fusion 360):** Exemplo de montagem do kit FLOWERY*
+
+![696](attachments/nest4.jpg)
+>*Peças do kit FLOWERY*
 ## Enquadramento
 
 Posicionamento em relação ao [contexto](../../contexto.md) de grupo 
@@ -79,6 +82,6 @@ O _FLOWERY_ cumpre os requisitos essenciais da Diretiva 2009/48/CE.  Em relaç
 ## Processo
 [Ver processo completo →](processo.md)
 
-[^2]: Controlo Numérico Computadorizado.
+[^2]: **Controlo Numérico Computadorizado**.
 
 [^3]: **corte de alívio arredondado** feito nos cantos internos de um encaixe.
