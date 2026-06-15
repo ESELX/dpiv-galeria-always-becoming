@@ -42,8 +42,8 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-
-
+![](wandy%20-%2013.png)
+>**1º Prancha-Resumo
 ## 7. Pesquisa
 
 ### 7.1. Aspectos Valorizados do Moodboard
@@ -64,4 +64,10 @@ Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ## 9. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+Para além da pesquisa visual e da análise de precedentes, foram consideradas decisões relacionadas com a identidade visual da marca. A paleta cromática foi definida coletivamente, procurando um equilíbrio entre cores vivas e neutras, suficientemente cativantes para o universo infantil sem remeter para associações de género específicas.
+
+As expressões gráficas integradas em algumas peças surgiram como uma forma de lhes atribuir personalidade e reforçar o potencial narrativo do brinquedo. Ao poderem ser apropriadas como personagens, estas peças estabelecem uma relação mais próxima e afetiva com os utilizadores. No entanto, as expressões encontram-se presentes apenas numa das superfícies de cada peça, criando uma dualidade entre figura e forma abstrata: dependendo da orientação escolhida pela criança, a mesma peça pode assumir uma identidade própria ou integrar-se na composição sem qualquer significado explícito.
+
+O rosto recortado na base da caixa corresponde ao símbolo da marca e surgiu como uma estratégia de reforço da sua identidade visual, permitindo estabelecer uma ligação imediata entre o produto e o universo gráfico que o acompanha. Este detalhe procura tornar a marca reconhecível e consistente ao longo das diferentes aplicações dos seus produtos, demonstrando como decisões aparentemente secundárias podem também contribuir para a construção da experiência global do brinquedo.
+
+Desta forma, o WANDY afirma-se não apenas como um conjunto de peças, mas como um sistema aberto onde materialidade, identidade visual e processo de fabrico participam igualmente na definição da experiência de brincar.
