@@ -43,7 +43,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 ## 6. Esboços e Pranchas-Resumo
 
 ![](wandy%20-%2013.png)
->**1º Prancha-Resumo
+>1º Prancha-Resumo
 ## 7. Pesquisa
 
 ### 7.1. Aspectos Valorizados do Moodboard
@@ -55,7 +55,7 @@ Ao longo do processo, estas referências foram sendo desconstruídas e traduzida
 A introdução de três alturas diferentes reforça esta lógica, acrescentando profundidade e variação às composições sem comprometer a simplicidade do sistema.
 
 ![](attachments/moodboard%201.png)
->**1º MoodBoard de Grupo
+>1º MoodBoard de Grupo
 ### 7.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
