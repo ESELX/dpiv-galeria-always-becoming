@@ -22,7 +22,7 @@ O desenvolvimento formal do WANDY iniciou-se através do desenho manual do padr�
 
 Este processo permitiu ajustar proporções, refinar as relações entre os elementos e testar a ocupação integral da caixa. A definição do sistema resultou de sucessivas decisões de desenho, nas quais a ambiguidade formal e a possibilidade de múltiplas leituras foram progressivamente consolidadas.
 
-![](attachments/wandy%20-%2020.png)
+![](attachments/padrão.png)
 >Adobe Illustrator: Padrão WANDY
 
 1.1. **Produção Aberta e Adaptável**
@@ -60,7 +60,7 @@ https://a360.co/4nqYoPa
 
 ## 6. Pranchas-Resumo
 
-![](attachments/wandy%20-%2013.png)
+![](attachments/placeholder.png)
 >Prancha-Resumo Inicial
 
 ![](attachments/placeholder.png)
