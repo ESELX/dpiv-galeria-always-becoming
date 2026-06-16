@@ -39,14 +39,48 @@ Esta abordagem reforça a ideia de que não existe uma única solução correta:
 
 Devido à utilização de madeira com diferentes espessuras, são preparados três Arranges distintos no Autodesk Fusion 360, correspondentes às alturas definidas para as peças (10, 15 e 20 mm). Para o corte dos componentes, optei pela utilização de uma fresa de topo plano (_flat end mill_) de 6 mm, adequada ao trabalho em madeira de carvalho e à precisão exigida pelo projeto. Foram igualmente incorporados _dogbones_ nos pontos necessários, permitindo compensar o raio da ferramenta e assegurar a correta execução das geometrias previstas. O brinquedo foi, desde o início, concebido para responder às exigências e potencialidades da fabricação digital.
 
-![](attachments/placeholder.png)
-
 Após a maquinação, todas as componentes são sujeitas a lixagem manual para eliminar farpas e suavizar arestas. Por fim, é aplicada pintura com certificação de segurança para brinquedos, assegurando condições adequadas à utilização infantil.
+
+![](attachments/arranges.png)
+>Autodesk Fusion 360: Arranges.
+
 
 **2.2. Fluxo Produtivo Planeado**
 
-![](attachments/placeholder.png)
+Embora não tenha sido executado fisicamente, o processo produtivo do WANDY foi planeado de acordo com um fluxo real de fabricação digital, contemplando todas as etapas necessárias à sua concretização.
 
+**Arrange Fusion**  
+Organização das peças e dos componentes da caixa em chapas de madeira, respeitando as diferentes espessuras definidas (10, 15 e 20 mm), as folgas mínimas entre elementos e a margem de segurança relativamente aos limites do material.
+
+↓
+
+**Simulação CAM**  
+Definição dos percursos de maquinação, permitindo visualizar antecipadamente os movimentos da ferramenta, verificar a sequência de operações e identificar possíveis problemas antes da produção.
+
+↓
+
+**Preparação CNC**  
+Configuração da máquina através da seleção da ferramenta adequada, definição da origem do corte (Work Coordinate System) e verificação final dos parâmetros necessários à execução do ficheiro.
+
+↓
+
+**Corte CNC**  
+Fabricação das quinze peças e dos componentes da caixa através de fresagem CNC, garantindo precisão dimensional e repetibilidade do processo.
+
+↓
+
+**Lixagem**  
+Remoção manual de farpas e pequenas irregularidades resultantes da maquinação, suavizando superfícies e arredondando arestas para uma utilização confortável e segura.
+
+↓
+
+**Pintura**  
+Aplicação de acabamentos com certificação de segurança para brinquedos, preservando a identidade visual do projeto e adequando-o ao contexto infantil.
+
+↓
+
+**Organização final na caixa**  
+Montagem da caixa e disposição das quinze peças no seu interior, definindo a apresentação final do conjunto antes da sua chegada ao utilizador.
 
 ## 4. Modelo 3D
 
