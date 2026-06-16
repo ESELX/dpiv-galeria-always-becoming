@@ -16,28 +16,16 @@ published: true
 
 > 
 
-## 1. Validação do Projeto
+## 1. Desenvolvimento Formal
 
-![](attachments/placeholder.png)
+O desenvolvimento formal do WANDY iniciou-se através do desenho manual do padrão das peças à escala real. Posteriormente, as formas foram vetorizadas em Adobe Illustrator e convertidas em ficheiros SVG para integração no Autodesk Fusion 360.
 
-## 2. Planeamento da Produção
+Este processo permitiu ajustar proporções, refinar as relações entre os elementos e testar a ocupação integral da caixa. A definição do sistema resultou de sucessivas decisões de desenho, nas quais a ambiguidade formal e a possibilidade de múltiplas leituras foram progressivamente consolidadas.
 
-Devido à utilização de madeira com diferentes espessuras, são preparados três Arranges distintos no Autodesk Fusion 360, correspondentes às alturas definidas para as peças (10, 15 e 20 mm). Para o corte dos componentes, optei pela utilização de uma fresa de topo plano (_flat end mill_) de 6 mm, adequada ao trabalho em madeira de carvalho e à precisão exigida pelo projeto. Foram igualmente incorporados _dogbones_ nos pontos necessários, permitindo compensar o raio da ferramenta e assegurar a correta execução das geometrias previstas. O brinquedo foi, desde o início, concebido para responder às exigências e potencialidades da fabricação digital.
+![](attachments/wandy%20-%2020.png)
+>Adobe Illustrator: Padrão WANDY
 
-![](attachments/placeholder.png)
-
-Após a maquinação, todas as componentes são sujeitas a lixagem manual para eliminar farpas e suavizar arestas. Por fim, é aplicada pintura com certificação de segurança para brinquedos, assegurando condições adequadas à utilização infantil.
-
-
-## 3. Desenvolvimento Formal
-
-O desenvolvimento formal do WANDY iniciou-se através do desenho manual do padrão de peças à escala real. Posteriormente, as formas foram vetorizadas em Adobe Illustrator e convertidas em ficheiros SVG para integração no Autodesk Fusion 360.
-
-Este processo permitiu refinar proporções, ajustar relações entre os elementos e testar a ocupação integral da caixa, contribuindo para a definição progressiva do sistema final.
-
-![](wandy-12.jpg)
-
-**Produção Aberta e Adaptável**:
+1.1. **Produção Aberta e Adaptável**
 
 A lógica produtiva do WANDY foi concebida para privilegiar a flexibilidade em detrimento da padronização rígida. Embora este conjunto seja composto por quinze peças específicas, o sistema poderá evoluir para gerar múltiplas variações a partir dos mesmos parâmetros de produção.
 
@@ -45,8 +33,20 @@ Mantendo constantes aspetos como o número de peças, o espaço útil da caixa, 
 
 Esta abordagem reforça a ideia de que não existe uma única solução correta: nem para brincar, nem para produzir. O brinquedo deixa de ser entendido como um objeto fechado e passa a funcionar como um sistema aberto, adaptável aos recursos disponíveis e capaz de gerar novas possibilidades ao longo do tempo.
 
+## 2. Planeamento da Produção
+
+**2.1. Preparação para Fabricação Digital**
+
+Devido à utilização de madeira com diferentes espessuras, são preparados três Arranges distintos no Autodesk Fusion 360, correspondentes às alturas definidas para as peças (10, 15 e 20 mm). Para o corte dos componentes, optei pela utilização de uma fresa de topo plano (_flat end mill_) de 6 mm, adequada ao trabalho em madeira de carvalho e à precisão exigida pelo projeto. Foram igualmente incorporados _dogbones_ nos pontos necessários, permitindo compensar o raio da ferramenta e assegurar a correta execução das geometrias previstas. O brinquedo foi, desde o início, concebido para responder às exigências e potencialidades da fabricação digital.
+
 ![](attachments/placeholder.png)
->Possíveis Variações de Padrão _(Imagem editada por IA)_
+
+Após a maquinação, todas as componentes são sujeitas a lixagem manual para eliminar farpas e suavizar arestas. Por fim, é aplicada pintura com certificação de segurança para brinquedos, assegurando condições adequadas à utilização infantil.
+
+**2.2. Fluxo Produtivo Planeado**
+
+![](attachments/placeholder.png)
+
 
 ## 4. Modelo 3D
 
@@ -54,9 +54,7 @@ Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. Modelo Digital Final
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+## 5. Validação do Projeto
 
 ![](attachments/placeholder.png)
 
