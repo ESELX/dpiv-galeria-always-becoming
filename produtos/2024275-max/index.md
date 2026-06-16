@@ -52,7 +52,6 @@ Num contexto em que muitos brinquedos procuram orientar a brincadeira através d
 
 **Educadores -** Porque reconhecem o potencial da brincadeira aberta como ferramenta para estimular a criatividade, a comunicação e a resolução de problemas através da experimentação.
 
-
 ## Enquadramento
 
 No contexto do projeto coletivo, o WANDY desenvolve o conceito dos ambientes, centrando-se na construção de paisagens e cenários que servem de suporte à brincadeira. O brinquedo procura criar um espaço aberto à ação e à imaginação da criança, complementando os restantes conceitos explorados pelo grupo.
@@ -72,32 +71,11 @@ Como o projeto NESTOR assenta na reutilização de excedentes da indústria do m
 
 **Processo de Fabrico**:
 
-A produção do WANDY recorre à fabricação digital através de corte CNC, utilizada para produzir as quinze peças e os componentes da caixa. O processo inicia-se com a preparação dos ficheiros de fabrico e a definição dos parâmetros de maquinação, incluindo a seleção das ferramentas adequadas, a configuração da origem do corte e a verificação prévia do percurso do mesmo.
-
-Devido à utilização de madeira com diferentes espessuras, são preparados três Arranges distintos no Autodesk Fusion 360, correspondentes às alturas definidas para as peças (10, 15 e 20 mm). Para o corte dos componentes, optei pela utilização de uma fresa de topo plano (_flat end mill_) de 6 mm, adequada ao trabalho em madeira de carvalho e à precisão exigida pelo projeto. Foram igualmente incorporados _dogbones_ nos pontos necessários, permitindo compensar o raio da ferramenta e assegurar a correta execução das geometrias previstas. O brinquedo foi, desde o início, concebido para responder às exigências e potencialidades da fabricação digital.
-
-![](attachments/arranges.png)
->**Renderização (Fusion 360):** Os 3 Arranges. _(Imagem editada por IA)_
-
-Após a maquinação, todas as componentes são sujeitas a lixagem manual para eliminar farpas e suavizar arestas. Por fim, é aplicada pintura com certificação de segurança para brinquedos, assegurando condições adequadas à utilização infantil.
+A produção do WANDY recorre à fabricação digital através de corte CNC, utilizada para produzir as quinze peças e os componentes da caixa. O processo inicia-se com a preparação dos ficheiros de fabrico e a definição dos parâmetros de maquinação, incluindo a seleção das ferramentas adequadas, a configuração da origem do corte e a verificação prévia do percurso do mesmo. Ver todas as informações em [processo.md](processo.md).
 
 **Software Paramétrico**:
 
-Todo o projeto foi desenvolvido digitalmente no Autodesk Fusion 360, utilizado na modelação tridimensional das peças e da caixa, bem como na preparação dos ficheiros necessários à fabricação digital.
-
-![](attachments/placeholder.png)
->**Modelo 3D: Autodesk Fusion 360
-
-**Produção Aberta e Adaptável**:
-
-A lógica produtiva do WANDY foi concebida para privilegiar a flexibilidade em detrimento da padronização rígida. Embora este conjunto seja composto por quinze peças específicas, o sistema poderá evoluir para gerar múltiplas variações a partir dos mesmos parâmetros de produção.
-
-Mantendo constantes aspetos como o número de peças, o espaço útil da caixa, as folgas mínimas entre elementos e os intervalos de alturas definidos, diferentes configurações poderiam ser geradas a partir das mesmas regras, dando origem a conjuntos únicos. Desta forma, a singularidade deixa de pertencer apenas à brincadeira e passa também a integrar o próprio processo de fabrico.
-
-Esta abordagem reforça a ideia de que não existe uma única solução correta: nem para brincar, nem para produzir. O brinquedo deixa de ser entendido como um objeto fechado e passa a funcionar como um sistema aberto, adaptável aos recursos disponíveis e capaz de gerar novas possibilidades ao longo do tempo.
-
-![](attachments/placeholder.png)
->Possíveis Variações de Padrão _(Imagem editada por IA)_
+Todo o projeto foi desenvolvido digitalmente no Autodesk Fusion 360, utilizado na modelação tridimensional das peças e da caixa, bem como na preparação dos ficheiros necessários à fabricação digital. Ver todas as informações em [processo.md](processo.md).
 
 - Ficheiros: `attachments/`
 

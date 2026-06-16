@@ -14,27 +14,44 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
+> 
 
-## 1. Protótipo(s)
+## 1. Validação do Projeto
 
-![](wandy%20-%207.jpg)
+![](attachments/placeholder.png)
 
-## 2. Processo de Prototipagem
+## 2. Planeamento da Produção
 
-![](wandy%20-%2015.jpg)
-![](attachments/wandy-12_2.jpg)
-## 3. Modelos 3D do Molde
+Devido à utilização de madeira com diferentes espessuras, são preparados três Arranges distintos no Autodesk Fusion 360, correspondentes às alturas definidas para as peças (10, 15 e 20 mm). Para o corte dos componentes, optei pela utilização de uma fresa de topo plano (_flat end mill_) de 6 mm, adequada ao trabalho em madeira de carvalho e à precisão exigida pelo projeto. Foram igualmente incorporados _dogbones_ nos pontos necessários, permitindo compensar o raio da ferramenta e assegurar a correta execução das geometrias previstas. O brinquedo foi, desde o início, concebido para responder às exigências e potencialidades da fabricação digital.
 
-![](wandy%20-%2014.jpg)
+Após a maquinação, todas as componentes são sujeitas a lixagem manual para eliminar farpas e suavizar arestas. Por fim, é aplicada pintura com certificação de segurança para brinquedos, assegurando condições adequadas à utilização infantil.
 
-## 4. Protótipos Exploratórios
+## 3. Desenvolvimento Formal
+
+O desenvolvimento formal do WANDY iniciou-se através do desenho manual do padrão de peças à escala real. Posteriormente, as formas foram vetorizadas em Adobe Illustrator e convertidas em ficheiros SVG para integração no Autodesk Fusion 360.
+
+Este processo permitiu refinar proporções, ajustar relações entre os elementos e testar a ocupação integral da caixa, contribuindo para a definição progressiva do sistema final.
+
+![](attachments/placeholder.png)
+
+**Produção Aberta e Adaptável**:
+
+A lógica produtiva do WANDY foi concebida para privilegiar a flexibilidade em detrimento da padronização rígida. Embora este conjunto seja composto por quinze peças específicas, o sistema poderá evoluir para gerar múltiplas variações a partir dos mesmos parâmetros de produção.
+
+Mantendo constantes aspetos como o número de peças, o espaço útil da caixa, as folgas mínimas entre elementos e os intervalos de alturas definidos, diferentes configurações poderiam ser geradas a partir das mesmas regras, dando origem a conjuntos únicos. Desta forma, a singularidade deixa de pertencer apenas à brincadeira e passa também a integrar o próprio processo de fabrico.
+
+Esta abordagem reforça a ideia de que não existe uma única solução correta: nem para brincar, nem para produzir. O brinquedo deixa de ser entendido como um objeto fechado e passa a funcionar como um sistema aberto, adaptável aos recursos disponíveis e capaz de gerar novas possibilidades ao longo do tempo.
+
+![](attachments/placeholder.png)
+>Possíveis Variações de Padrão _(Imagem editada por IA)_
+
+## 4. Modelo 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. Modelos 3D
+## 5. Modelo Digital Final
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
