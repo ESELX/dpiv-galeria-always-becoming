@@ -56,13 +56,16 @@ A introdução de três alturas diferentes reforça esta lógica, acrescentando 
 
 ![](attachments/moodboard%201.png)
 >1º MoodBoard de Grupo
-### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+### 7.2. Ergonomia Infantil e Adequação Material
 
-![](attachments/placeholder.png)
+Paralelamente à investigação formal desenvolvida a partir do moodboard, foram considerados princípios de ergonomia infantil, procurando adequar o brinquedo às capacidades motoras e às características físicas do público-alvo. Tendo como referência crianças entre os 4 e os 5 anos, foram analisadas dimensões médias da mão e da capacidade de preensão nesta faixa etária, correspondendo aproximadamente a comprimentos entre 11 e 13 centímetros e larguras palmares entre 5 e 6 centímetros. Esta pesquisa permitiu estabelecer dimensões que favorecem a autonomia, o conforto e a facilidade de manipulação das peças.
 
-## 9. Outros Elementos
+Ao longo do desenvolvimento do projeto, tornou-se evidente a necessidade de equilibrar a reutilização dos excedentes da indústria do mobiliário com as exigências do público infantil. Sendo o carvalho uma madeira relativamente densa e pesada, a utilização de espessuras mais reduzidas revelou-se importante para garantir que as crianças conseguissem transportar, reorganizar e manipular as peças de forma autónoma. As três alturas adotadas no WANDY (10, 15 e 20 mm) surgiram, assim, como a solução mais interessante encontrada, permitindo introduzir variação formal e aproveitar diferentes excedentes sem comprometer a facilidade de utilização do brinquedo.
+
+Ainda assim, esta não é uma solução fechada. Com a possibilidade futura de gerar diferentes padrões de peças a partir dos mesmos parâmetros, o sistema poderá adaptar-se mais facilmente às espessuras mais comuns da indústria do mobiliário, frequentemente entre os 18 e os 30 milímetros. Nesse cenário, o aumento da espessura poderia ser compensado através da fragmentação das formas e do aumento do número de peças, mantendo a ergonomia e a autonomia da criança, ao mesmo tempo que se ampliam as possibilidades de reaproveitamento do material disponível.
+
+## 8. Outros Elementos
 
 Para além da pesquisa visual e da análise de precedentes, foram consideradas decisões relacionadas com a identidade visual da marca. A paleta cromática foi definida coletivamente, procurando um equilíbrio entre cores vivas e neutras, suficientemente cativantes para o universo infantil sem remeter para associações de género específicas.
 

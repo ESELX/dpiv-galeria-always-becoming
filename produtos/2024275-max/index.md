@@ -113,7 +113,7 @@ O projeto foi desenvolvido tendo como referência os princípios de segurança e
 
 ## Apresentação
 
-![](attachments/wandy%20-%209.jpg)
+![](attachments/wandy%20-%204.png)
 
 
 ---
