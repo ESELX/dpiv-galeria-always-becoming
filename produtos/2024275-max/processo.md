@@ -35,7 +35,7 @@ O desenvolvimento formal do WANDY iniciou-se através do desenho manual do padr�
 
 Este processo permitiu refinar proporções, ajustar relações entre os elementos e testar a ocupação integral da caixa, contribuindo para a definição progressiva do sistema final.
 
-![](attachments/placeholder.png)
+![](wandy-12.jpg)
 
 **Produção Aberta e Adaptável**:
 
@@ -99,4 +99,4 @@ O rosto recortado na base da caixa corresponde ao símbolo da marca e surgiu com
 
 Desta forma, o WANDY afirma-se não apenas como um conjunto de peças, mas como um sistema aberto onde materialidade, identidade visual e processo de fabrico participam igualmente na definição da experiência de brincar.
 
-![](attachments/placeholder.png)
+![](attachments/wandy%20-%2016.png)
