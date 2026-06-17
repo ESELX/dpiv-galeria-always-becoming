@@ -3,7 +3,7 @@ title: FLOWERY
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/kidsnew.png
+hero_image: attachments/kidsnew.jpg
 hero_title: FLOWERY
 hero_subtitle: Ana Rita Queta · 2025-26
 hero_height: 80vh
@@ -25,7 +25,7 @@ student_number: ""
 > A liberdade de construir os teus próprios personagens.
 ## Conceito
 
-O *FLOWERY* é um brinquedo composto por 15 peças de madeira. É destinado a crianças dentro da faixa etária entre os **4-5 anos** e é um brinquedo didático e criativo, permitindo várias tipo de combinações. 
+*FLOWERY* é um brinquedo composto por 15 peças de madeira. É destinado a crianças dentro da faixa etária entre os **4-5 anos** e é um brinquedo didático e criativo, permitindo várias tipo de combinações. 
 
 ![696](attachments/brinquedos.png)
 >***Renderização (Fusion 360):** Exemplo de montagem do kit FLOWERY*
@@ -36,28 +36,33 @@ O *FLOWERY* é um brinquedo composto por 15 peças de madeira. É destinado a cr
 
 Posicionamento em relação ao [contexto](../../contexto.md) de grupo 
 
-O *FLOWERY* insere-se no conceito do grupo através do esquema cromático definido e do fator *mix-n-match*. 
+O *FLOWERY* insere-se no conceito do grupo através do esquema cromático definido e do fator *mix-n-match*, contribuindo para a crianção de uma brincadeira proveniente da imaginação de cada criança.
 
 **O que é?**
 
 O *FLOWERY* é um brinquedo modular composto por um conjunto de 15 peças, organizadas em três tipologias distintas: 5 peças longas, 5 peças curtas que funcionam como base estrutural e 5 peças com morfologia inspirada em flores. Esta divisão tipológica permite uma ampla variedade de combinações formais, incentivando a experimentação compositiva e a exploração espacial por parte do utilizador. 
 
-Ao nível do sistema de encaixe, é utilizado um mecanismo aberto baseado em slots, complementado por [^3]*dogbones* nas peças base. Este tipo de solução técnica facilita o processo de montagem e desmontagem, permitindo uma interação intuitiva e acessível, ao mesmo tempo que assegura a precisão dos encaixes e a durabilidade das peças. A escolha de um sistema aberto promove ainda a liberdade criativa, não impondo uma única forma final, mas antes incentivando múltiplas configurações e narrativas construtivas.
+Ao nível do sistema de encaixe, é utilizado um mecanismo aberto baseado em slots, complementado por [^3]*dogbones* em todas as peças e cada abertura de encaixe possuí o mesmo parâmetro. Este tipo de solução técnica facilita o processo de montagem e desmontagem, permitindo uma interação intuitiva e acessível, ao mesmo tempo que assegura a precisão dos encaixes e a durabilidade das peças. A escolha de um sistema aberto promove ainda a liberdade criativa, não impondo uma única forma final, mas antes incentivando múltiplas configurações e narrativas construtivas.
+
+**Para quem?**
+
+**Crianças e educadores**
+Apesar do público ser crianças de 4-5 anos, crianças de outras idades e educadores beneficiam do uso deste brinquedo, pois é simultaneamente didático e estimulante, promovendo uma relação mais próxima e significativa entre educador e criança no contexto da sala de aula.
 ## Tecnologia
 
 **Materiais**
 
-O material de seleção para este brinquedo é a madeira de carvalho pela sua robustez. Foram utilizadas de placas de madeira disponibilizadas no FabLab Benfica, de forma a reforçar a sustentabilidade na produção dos brinquedos NESTOR.
+O material de seleção para este brinquedo é a madeira de carvalho pela sua robustez e densidade. Foram utilizadas de placas de madeira disponibilizadas no FabLab Benfica, de forma a reforçar a sustentabilidade na produção dos brinquedos NESTOR.
 
 **Processo de fabrico**  
 
-Todos os componentes foram cortados numa fresadora [^2]CNC, de forma a assegurar a precisão do corte, com especial atenção às aberturas de encaixe. 
+Todos os componentes foram digitalmente cortados numa fresadora [^2]CNC, de forma a assegurar a precisão do corte, com especial atenção às aberturas de encaixe. 
 
 **Pós processamento e acabamento**
 
 No acabamento existiu o especial cuidado do lixar da madeira, de forma a não existirem mais arestas vivas.
 
-**Software paramétrico:** Autodesk Fusion.
+**Software paramétrico:** A totalidade do projeto foi realizada digitalmente no programa Autodesk Fusion 360.
 
 - Modelo 3D: [<!-- embed Fusion ou link a360.co -->](https://a360.co/4eHcBEK) 
 
