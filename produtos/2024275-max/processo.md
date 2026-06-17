@@ -22,7 +22,7 @@ O desenvolvimento formal do WANDY iniciou-se através do desenho manual do padr�
 
 Este processo permitiu ajustar proporções, refinar as relações entre os elementos e testar a ocupação integral da caixa. A definição do sistema resultou de sucessivas decisões de desenho, nas quais a ambiguidade formal e a possibilidade de múltiplas leituras foram progressivamente consolidadas.
 
-![](attachments/padrão.png)
+![](attachments/wandy%20-%205.png)
 >Adobe Illustrator: Padrão WANDY
 
 1.1. **Produção Aberta e Adaptável**
@@ -41,7 +41,7 @@ Devido à utilização de madeira com diferentes espessuras, são preparados tr�
 
 Após a maquinação, todas as componentes são sujeitas a lixagem manual para eliminar farpas e suavizar arestas. Por fim, é aplicada pintura com certificação de segurança para brinquedos, assegurando condições adequadas à utilização infantil.
 
-![](attachments/arranges.png)
+![](attachments/wandy%20-%206.png)
 >Autodesk Fusion 360: Arranges.
 
 
@@ -88,17 +88,16 @@ https://a360.co/3SgWogS
 
 ## 5. Renderização do Projeto
 
-![](attachments/render%201.png)
+![](attachments/wandy%20-%207.png)
 >WANDY: Conjunto.
 
 
 ## 6. Pranchas-Resumo
 
-
-![](attachments/prancha%20resumo%20inicial.png)
+![](attachments/wandy%20-%208.png)
 >Prancha-Resumo Inicial
 
-![](attachments/prancha%20resumo%20final.png)
+![](attachments/wandy%20-%209.png)
 >Prancha-Resumo Final
 
 ## 7. Pesquisa
@@ -111,7 +110,7 @@ Ao longo do processo, estas referências foram sendo desconstruídas e traduzida
 
 A introdução de três alturas diferentes reforça esta lógica, acrescentando profundidade e variação às composições sem comprometer a simplicidade do sistema.
 
-![](attachments/moodboard%201.png)
+![](attachments/wandy%20-%2010.png)
 >1º MoodBoard de Grupo
 
 ### 7.2. Conciliar Ergonomia e Reaproveitamento
@@ -132,5 +131,5 @@ O rosto recortado na base da caixa corresponde ao símbolo da marca e surgiu com
 
 Desta forma, o WANDY afirma-se não apenas como um conjunto de peças, mas como um sistema aberto onde materialidade, identidade visual e processo de fabrico participam igualmente na definição da experiência de brincar.
 
-![](attachments/wandy%20-%2016.png)
+![](attachments/wandy%20-%2011.png)
 >WANDY: Caixa.

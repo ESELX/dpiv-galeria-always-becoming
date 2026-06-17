@@ -26,7 +26,7 @@ student_number: ""
 
 ## Conceito
 
-![](attachments/wandy%20-%203.png)
+![](attachments/wandy%20-%201.png)
 >**Renderização (Fusion 360):** Cenário de Utilização do WANDY. _(Imagem gerada por IA)_
 
 WANDY propõe uma experiência de brincadeira aberta, onde as formas não impõem significados nem funções específicas. Em vez de orientar a criança para um resultado, oferece possibilidades para explorar, imaginar e construir livremente.
@@ -35,7 +35,7 @@ WANDY propõe uma experiência de brincadeira aberta, onde as formas não impõe
 
 O WANDY é um brinquedo composto por um conjunto de 15 formas orgânicas que se organizam no interior de uma caixa, ocupando completamente o seu espaço. Quando retiradas, as peças podem ser reorganizadas de inúmeras formas, dando origem a diferentes estruturas, cenários e interpretações.
 
-![](attachments/wandy%20-%206.jpg)
+![](attachments/wandy%20-%202.jpg)
 >**Renderização (Fusion 360):** Peças do WANDY. _(Imagem editada por IA)_
 
 As mesmas peças podem assumir diferentes papéis ao longo da brincadeira: aquilo que num momento pode sugerir uma montanha, no seguinte pode transformar-se num animal, numa ponte ou numa casa. Sem impor uma utilização específica, o brinquedo adapta-se às ideias da criança, acompanhando a evolução das suas construções e narrativas ao longo dos anos.
@@ -58,7 +58,7 @@ No contexto do projeto coletivo, o WANDY desenvolve o conceito dos ambientes, ce
 
 A conceção do brinquedo foi particularmente influenciada pelo universo dos brinquedos Grimm's, cuja simplicidade formal e qualidade quase escultórica demonstram como elementos simples podem dar origem a construções visualmente ricas e inesperadas. Mais do que representar objetos específicos, estes brinquedos valorizam a liberdade criativa e a beleza das composições que surgem durante o brincar. O WANDY procura traduzir esses princípios através de formas abertas que acompanham a imaginação da criança e permitem que uma mesma peça seja, sucessivamente, muitas coisas diferentes.
 
-![](attachments/wandy%20-%208.png)
+![](attachments/wandy%20-%203.png)
 >**MoodBoard:** Produtos Grimm's.
 
 ## Tecnologia
@@ -76,8 +76,6 @@ A produção do WANDY recorre à fabricação digital através de corte CNC, uti
 **Software Paramétrico**:
 
 Todo o projeto foi desenvolvido digitalmente no Autodesk Fusion 360, utilizado na modelação tridimensional das peças e da caixa, bem como na preparação dos ficheiros necessários à fabricação digital. Ver todas as informações em [processo.md](processo.md).
-
-- Ficheiros: `attachments/`
 
 ## Função
 
