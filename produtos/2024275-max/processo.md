@@ -94,10 +94,11 @@ https://a360.co/4nqYoPa
 
 ## 6. Pranchas-Resumo
 
-![](attachments/placeholder.png)
+
+![](attachments/prancha%20resumo%20inicial.png)
 >Prancha-Resumo Inicial
 
-![](attachments/placeholder.png)
+![](attachments/prancha%20resumo%20final.png)
 >Prancha-Resumo Final
 
 ## 7. Pesquisa
@@ -132,3 +133,4 @@ O rosto recortado na base da caixa corresponde ao símbolo da marca e surgiu com
 Desta forma, o WANDY afirma-se não apenas como um conjunto de peças, mas como um sistema aberto onde materialidade, identidade visual e processo de fabrico participam igualmente na definição da experiência de brincar.
 
 ![](attachments/wandy%20-%2016.png)
+>WANDY: Caixa.
