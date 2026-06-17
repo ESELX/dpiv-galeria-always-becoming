@@ -14,7 +14,7 @@ published: true
 
 # Processo
 
-> 
+> Processo de criação do WANDY
 
 ## 1. Desenvolvimento Formal
 
@@ -88,7 +88,7 @@ https://a360.co/3SgWogS
 
 ## 5. Validação do Projeto
 
-![](attachments/placeholder.png)
+![](attachments/render.png)
 
 ## 6. Pranchas-Resumo
 
