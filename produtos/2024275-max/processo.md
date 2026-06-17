@@ -82,17 +82,17 @@ Aplicação de acabamentos com certificação de segurança para brinquedos, pre
 **7. Organização final na caixa**  
 Montagem da caixa e disposição das quinze peças no seu interior, definindo a apresentação final do conjunto antes da sua chegada ao utilizador.
 
-## 4. Modelo 3D
+## 3. Modelo 3D
 
 https://a360.co/3SgWogS
 
-## 5. Renderização do Projeto
+## 4. Renderização do Projeto
 
 ![](attachments/wandy%20-%207.png)
 >WANDY: Conjunto.
 
 
-## 6. Pranchas-Resumo
+## 5. Pranchas-Resumo
 
 ![](attachments/wandy%20-%208.png)
 >Prancha-Resumo Inicial
@@ -100,9 +100,9 @@ https://a360.co/3SgWogS
 ![](attachments/wandy%20-%209.png)
 >Prancha-Resumo Final
 
-## 7. Pesquisa
+## 6. Pesquisa
 
-### 7.1. Aspectos Valorizados do Moodboard
+### 6.1. Aspectos Valorizados do Moodboard
 
 O moodboard inicial não se centrou exclusivamente no universo dos brinquedos, mas numa recolha mais ampla de referências visuais ligadas ao mobiliário, à escultura, à pintura e ao design. Entre os aspetos mais valorizados destacaram-se as formas orgânicas, a irregularidade controlada, a repetição com variação e a capacidade de gerar composições visualmente equilibradas a partir de elementos simples.
 
@@ -113,7 +113,7 @@ A introdução de três alturas diferentes reforça esta lógica, acrescentando 
 ![](attachments/wandy%20-%2010.png)
 >1º MoodBoard de Grupo
 
-### 7.2. Conciliar Ergonomia e Reaproveitamento
+### 6.2. Conciliar Ergonomia e Reaproveitamento
 
 Paralelamente à investigação formal desenvolvida a partir do moodboard, foram considerados princípios de ergonomia infantil, procurando adequar o brinquedo às capacidades motoras e às características físicas do público-alvo. Tendo como referência crianças entre os 4 e os 5 anos, foram analisadas dimensões médias da mão e da capacidade de preensão nesta faixa etária, correspondendo aproximadamente a comprimentos entre 11 e 13 centímetros e larguras palmares entre 5 e 6 centímetros. Esta pesquisa permitiu estabelecer dimensões que favorecem a autonomia, o conforto e a facilidade de manipulação das peças.
 
@@ -121,7 +121,7 @@ Ao longo do desenvolvimento do projeto, tornou-se evidente a necessidade de equi
 
 Ainda assim, esta não é uma solução fechada. Com a possibilidade futura de gerar diferentes padrões de peças a partir dos mesmos parâmetros, o sistema poderá adaptar-se mais facilmente às espessuras mais comuns da indústria do mobiliário, frequentemente entre os 18 e os 30 milímetros. Nesse cenário, o aumento da espessura poderia ser compensado através da fragmentação das formas e do aumento do número de peças, mantendo a ergonomia e a autonomia da criança, ao mesmo tempo que se ampliam as possibilidades de reaproveitamento do material disponível.
 
-## 8. Decisões Estéticas
+## 7. Decisões Estéticas
 
 Para além da pesquisa visual e da análise de precedentes, foram consideradas decisões relacionadas com a identidade visual da marca. A paleta cromática foi definida coletivamente, procurando um equilíbrio entre cores vivas e neutras, suficientemente cativantes para o universo infantil sem remeter para associações de género específicas.
 
