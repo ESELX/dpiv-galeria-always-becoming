@@ -84,9 +84,7 @@ Montagem da caixa e disposição das quinze peças no seu interior, definindo a 
 
 ## 4. Modelo 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
-
-https://a360.co/4nqYoPa
+https://a360.co/3SgWogS
 
 ## 5. Validação do Projeto
 
