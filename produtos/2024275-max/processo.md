@@ -86,9 +86,11 @@ Montagem da caixa e disposição das quinze peças no seu interior, definindo a 
 
 https://a360.co/3SgWogS
 
-## 5. Validação do Projeto
+## 5. Renderização do Projeto
 
-![](attachments/render.png)
+![](attachments/render%201.png)
+>WANDY: Conjunto.
+
 
 ## 6. Pranchas-Resumo
 
